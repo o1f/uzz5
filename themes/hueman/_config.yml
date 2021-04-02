@@ -27,11 +27,11 @@ customize:
 
 # Widgets
 widgets:
-    - catalog
+    #- catalog
     - recent_posts
     - category
-    - archive
-    - tag
+    #- archive
+    #- tag
     - tagcloud
     - links
 #    - google_adsense
@@ -109,7 +109,7 @@ plugins:
       on: # enter true to enable statcounter
     mathjax: false # options: true, false
     counter: false # for post words count and time of reading, need hexo-wordcount: https://github.com/willin/hexo-wordcount
-    cookie_consent: false
+    cookie_consent: true
     twitter_conversion_tracking:
       enabled: false
       pixel_id: ''
@@ -123,4 +123,4 @@ miscellaneous:
     links:
         Hexo: http://hexo.io
 
-poweredby: true
+poweredby: false
