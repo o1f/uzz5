@@ -1,14 +1,13 @@
 ---
-title: 文章名
-date: 时间
+title: 'Travellings: 随机友联,遇上精彩'
+date: 2021-3-18 00:19:52
 categories:
   - - Other
 tags:
   - Blog
   - 分享
   - 娱乐
-id: '317'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/21/QPd5jVIf.webp
 ---
 
 
@@ -16,7 +15,13 @@ thumbnail:
 
 ## 说明
 
-“开往”取自“开放的网络”。将开往放入您的网页，表示您乐于分享并支持开放的网络。 每当有用户访问加入开往的网页时，点击开往后会随机跳转到另一个加入开往的网页。加入开往的网页越多，友链接力的规模越大，分享流量的规模也越大。 项目地址: [https://github.com/volfclub/travellings](https://github.com/volfclub/travellings) 详细说明: [https://github.com/volfclub/travellings/blob/master/README.md](https://github.com/volfclub/travellings/blob/master/README.md) 这是一个随机地址访问的项目,面向全部加入`开往`项目的网址.大部分为个人博客.
+“开往”取自“开放的网络”。将开往放入您的网页，表示您乐于分享并支持开放的网络。 每当有用户访问加入开往的网页时，点击开往后会随机跳转到另一个加入开往的网页。加入开往的网页越多，友链接力的规模越大，分享流量的规模也越大。 
+
+项目地址: [https://github.com/volfclub/travellings](https://github.com/volfclub/travellings) 
+
+详细说明: [https://github.com/volfclub/travellings/blob/master/README.md](https://github.com/volfclub/travellings/blob/master/README.md) 
+
+这是一个随机地址访问的项目,面向全部加入`开往`项目的网址.大部分为个人博客.
 
 ## 使用说明
 
