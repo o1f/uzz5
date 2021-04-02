@@ -1,5 +1,8 @@
 ---
-title: {{ title }}
-date: {{ date }}
-tags:
+title: '文章名'
+date: '时间'
+categories: 
+tags: 
+thumbnail: 
 ---
+
