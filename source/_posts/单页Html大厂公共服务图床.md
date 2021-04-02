@@ -1,5 +1,5 @@
 ---
-title: 文章名
+title: 单页Html大厂公共服务图床
 date: 时间
 categories:
   - - Web
@@ -7,8 +7,7 @@ tags:
   - Github
   - 图床
   - 图片
-id: '288'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/14/ru5dsVgT.webp
 ---
 
 

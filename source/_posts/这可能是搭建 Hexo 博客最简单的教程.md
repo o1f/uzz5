@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 这可能是搭建 Hexo 博客最简单的教程
+date: 2021-3-16 23:26:08
 categories:
   - - Web
 tags:
@@ -8,12 +8,15 @@ tags:
   - Github
   - hexo
   - 分享
-id: '306'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/16/WyUpc0w9.webp
 ---
 
 
-昨天心血来潮想折腾一下 Hexo , 就想起了之前的一个项目, 可以配合下面教程,在线编辑发布文章,不需要在本地构建环境. 这是我根据 本文教程以及 hexoplusplus 创建的 Hexo 个人博客 [https://bref.life](https://bref.life) 原先的 wordpress 可以备份一下删掉了. Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus)
+昨天心血来潮想折腾一下 Hexo , 就想起了之前的一个项目, 可以配合下面教程,在线编辑发布文章,不需要在本地构建环境. 
+
+这是我根据 本文教程以及 hexoplusplus 创建的 Hexo 个人博客 [https://bref.life](https://bref.life) 原先的 wordpress 可以备份一下删掉了. 
+
+Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus)
 
 ## 前言
 
