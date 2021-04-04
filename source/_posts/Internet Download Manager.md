@@ -1,13 +1,13 @@
 ---
-title: 文章名
-date: 时间
+title: 'Internet Download Manager 6.38.17 毛子大神修改版'
+date: 2021-2-16 19:51:40
 categories:
   - - Win
 tags:
   - 修改版
   - 工具
 id: '29'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/01/NvfgSjmE.webp
 ---
 
 
@@ -19,7 +19,11 @@ thumbnail:
 
 # 使用说明
 
-下载压缩包之后,全部解压出来 ![](https://cdn.uzz5.com/imgs/2021/03/01/D3GfR6jL.webp) 选好路径一路`next`即可 我这边默认为英文,设置更改语音. ![](https://cdn.uzz5.com/imgs/2021/03/01/D3GfR6jL.webp)
+下载压缩包之后,全部解压出来 ![](https://cdn.uzz5.com/imgs/2021/03/01/D3GfR6jL.webp) 
+
+选好路径一路`next`即可 我这边默认为英文,设置更改语言. 
+
+![](https://cdn.uzz5.com/imgs/2021/03/01/D3GfR6jL.webp)
 
 # 下载地址
 

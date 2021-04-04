@@ -1,13 +1,13 @@
 ---
-title: 文章名
-date: 时间
+title: 'MyDockFinder : 体验极致模拟Mac OS系统桌面'
+date: 2021-1-19 20:02:33
 categories:
   - - Win
 tags:
   - 工具
   - 系统
 id: '34'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/ohtDtDNn.webp
 ---
 
 
@@ -15,7 +15,9 @@ thumbnail:
 
 # 官网
 
-[https://www.mydockfinder.com/](https://www.mydockfinder.com/) [下载地址](https://www.mydockfinder.com/index.php/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83/)
+[https://www.mydockfinder.com/](https://www.mydockfinder.com/) 
+
+[下载地址](https://www.mydockfinder.com/index.php/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83/)
 
 # 介绍及预览
 

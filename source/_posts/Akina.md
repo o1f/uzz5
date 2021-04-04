@@ -1,17 +1,21 @@
 ---
-title: 文章名
-date: 时间
+title: 'Akina: 简洁大气单栏 typecho 主题'
+date: 2021-1-28 19:57:30
 categories:
   - - Typecho
 tags:
   - 主题
   - 开源
 id: '46'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/TlcUjGXR.webp
 ---
 
 
-开源地址: [https://github.com/Zisbusy/Akina-for-Typecho](https://github.com/Zisbusy/Akina-for-Typecho) 发布下载: [https://github.com/Zisbusy/Akina-for-Typecho/releases](https://github.com/Zisbusy/Akina-for-Typecho/releases) 作者演示: [https://zhebk.cn/Web/Akina.html](https://zhebk.cn/Web/Akina.html)
+开源地址: [https://github.com/Zisbusy/Akina-for-Typecho](https://github.com/Zisbusy/Akina-for-Typecho) 
+
+发布下载: [https://github.com/Zisbusy/Akina-for-Typecho/releases](https://github.com/Zisbusy/Akina-for-Typecho/releases) 
+
+作者演示: [https://zhebk.cn/Web/Akina.html](https://zhebk.cn/Web/Akina.html)
 
 # 特点
 

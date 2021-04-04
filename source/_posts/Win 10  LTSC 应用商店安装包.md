@@ -1,13 +1,13 @@
 ---
-title: 文章名
-date: 时间
+title: 'Win 10  LTSC 应用商店安装包'
+date: 2020-12-13 19:54:42
 categories:
   - - Win
 tags:
   - Win
   - 工具
 id: '7'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/27/id9MRolB.webp
 ---
 
 
@@ -15,7 +15,11 @@ thumbnail:
 
 # 使用说明
 
-下载安装包,解压到任意位置 . ![](https://cdn.uzz5.com/imgs/2021/02/27/lKyknB60.webp) 使用管理员运行 视网络情况,大概需要`1-3`分钟安装完毕,有条件的同学可以试试全局代理加速安装 . ![](https://cdn.uzz5.com/imgs/2021/02/27/rsN8DmOL.webp)安装完成
+下载安装包,解压到任意位置 . ![](https://cdn.uzz5.com/imgs/2021/02/27/lKyknB60.webp) 
+
+使用管理员运行 视网络情况,大概需要`1-3`分钟安装完毕,有条件的同学可以试试全局代理加速安装 . 
+
+![](https://cdn.uzz5.com/imgs/2021/02/27/rsN8DmOL.webp)安装完成
 
 # 下载地址
 

@@ -9,7 +9,7 @@ tags:
   - 开源
   - 系统
 id: '73'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/gBmTjIIx.webp
 ---
 
 

@@ -1,13 +1,13 @@
 ---
-title: 文章名
-date: 时间
+title: 'Telegram MTProxy一键安装脚本'
+date: 2020-12-13 19:42:35
 categories:
   - - Other
 tags:
   - Linux
   - 脚本
 id: '14'
-thumbnail:
+thumbnail: https://developer-forum-online.cdn.bcebos.com/b2e022ad-0a04-4e46-926e-9656eaa49675.png
 ---
 
 
