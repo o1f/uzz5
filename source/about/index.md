@@ -2,7 +2,7 @@
 title: About
 date: 2020-01-01 00:00:00
 ---
-
+本 hexo 为主站 [悠哉哉](https://www.uzz5.com) 备用站点
 
 ## 关于博客
 

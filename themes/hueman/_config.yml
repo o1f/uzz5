@@ -2,10 +2,13 @@
 menu:
     Home: /
     # Delete this row if you don't want categories in your header nav bar
-    #Categories:
-    Win: /categories/Win/
-    Web: /categories/Web/
-    Other: /categories/Other/
+    Categories:
+    - Win
+    - Web
+    - Other
+    #Win: /categories/Win/
+    #Web: /categories/Web/
+    #Other: /categories/Other/
     About: /about/index.html
     悠哉哉主站: http://www.uzz5.com/
 
