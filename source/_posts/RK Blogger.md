@@ -2,7 +2,7 @@
 title: 'RK Blogger: 免费WordPress资讯博客主题'
 date: 2021-2-24 19:27:26
 categories:
-  - - Wordpress
+  - - Web
 tags:
   - 主题
   - 免费

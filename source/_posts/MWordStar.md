@@ -2,7 +2,7 @@
 title: 'MWordStar: 响应式双栏 Typecho 博客主题'
 date: 2021-3-7 19:07:29
 categories:
-  - - Typecho
+  - - Web
 tags:
   - Blog
   - Github

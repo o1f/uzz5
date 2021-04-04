@@ -2,7 +2,7 @@
 title: '酱茄Free: 专为WordPress博客、资讯、自媒体网站而设计'
 date: 2021-3-12 23:31:43
 categories:
-  - - Wordpress
+  - - Web
 tags:
   - Blog
   - Github

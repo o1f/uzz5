@@ -2,7 +2,7 @@
 title: 'W : Write & Watch 专注写作,享受阅读 一款简洁的 Typecho 主题'
 date: 2020-12-19 19:48:36
 categories:
-  - - Typecho
+  - - Web
 tags:
   - Github
   - 主题

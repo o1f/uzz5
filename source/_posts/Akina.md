@@ -2,7 +2,7 @@
 title: 'Akina: 简洁大气单栏 typecho 主题'
 date: 2021-1-28 19:57:30
 categories:
-  - - Typecho
+  - - Web
 tags:
   - 主题
   - 开源
