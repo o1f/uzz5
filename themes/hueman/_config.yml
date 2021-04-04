@@ -19,14 +19,9 @@ customize:
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: # path to favicon
+    favicon: https://cdn.uzz5.com/imgs/2021/03/01/iE7rHWLn.webp # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-        twitter: /
-        facebook: /
-        stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
-        weibo: /
-        rss: /
+        steam: https://steamcommunity.com/profiles/76561199040778840
 
 # Widgets
 widgets:
