@@ -1,13 +1,13 @@
 ---
-title: 文章名
-date: 时间
+title: 'Debian/Ubuntu/CentOS 网络安装/网络重装/纯净安装 一键脚本'
+date: 2020-12-13 19:21:27
 categories:
   - - Other
 tags:
   - Github
   - Linux
 id: '5'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/27/RRsAYTrZ.webp
 ---
 
 
@@ -52,4 +52,6 @@ wget --no-check-certificate -O AutoReinstall.sh https://git.io/AutoReinstall.sh 
 
 ## 引用
 
-原文:[https://www.hostloc.com/thread-645870-1-1.html](https://www.hostloc.com/thread-645870-1-1.html) 萌咖博客:[https://moeclub.org/](https://moeclub.org/)
+原文:[https://www.hostloc.com/thread-645870-1-1.html](https://www.hostloc.com/thread-645870-1-1.html) 
+
+萌咖博客:[https://moeclub.org/](https://moeclub.org/)

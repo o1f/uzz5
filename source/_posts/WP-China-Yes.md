@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'WP-China-Yes: 解决国内 wordpress 更新 插件/主题 慢/错误 的最有效方法'
+date: 2021-2-24 19:24:24
 categories:
   - - Wordpress
 tags:
@@ -9,13 +9,17 @@ tags:
   - 开源
   - 插件
 id: '88'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/vd6OIoF1.webp
 ---
 
 
 # 简介
 
-开源地址: [https://github.com/wp-china/wp-china-yes](https://github.com/wp-china/wp-china-yes) 下载地址: [https://github.com/wp-china/wp-china-yes/releases](https://github.com/wp-china/wp-china-yes/releases) WP中国本土化社区（WP-China.org）出品，旨在将你的WordPress一键接入到本土生态体系中
+开源地址: [https://github.com/wp-china/wp-china-yes](https://github.com/wp-china/wp-china-yes) 
+
+下载地址: [https://github.com/wp-china/wp-china-yes/releases](https://github.com/wp-china/wp-china-yes/releases) 
+
+WP中国本土化社区（WP-China.org）出品，旨在将你的WordPress一键接入到本土生态体系中
 
 # 安装
 

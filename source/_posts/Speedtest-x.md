@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'Speedtest-x: 网站服务器测速工具'
+date: 2021-2-20 19:37:46
 categories:
   - - Web
 tags:
@@ -8,11 +8,23 @@ tags:
   - 工具
   - 开源
 id: '64'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/RE1CRonb.webp
 ---
 
 
-本项目为 [LibreSpeed](https://github.com/librespeed/speedtest) 的延伸项目，LibreSpeed 是一个非常轻巧的网站测速工具。 speedtest-x 使用文件数据库来保存来自不同用户的测速结果，方便您查看全国不同地域与运营商的测速效果。 [加入交流 TG 群](https://t.me/xiaozhu5) 开源地址：[https://github.com/BadApple9/speedtest-x](https://github.com/BadApple9/speedtest-x) 建议反馈： [https://github.com/BadApple9/speedtest-x/issues](https://github.com/BadApple9/speedtest-x/issues) 更新日志； [https://github.com/BadApple9/speedtest-x#更新记录](https://github.com/BadApple9/speedtest-x#更新记录) ❗ 注意：基于网页测速的原理，程序会生成无用文件供测速者下载来计算真实下行带宽，一定程度上存在被恶意刷流量的风险，在对外分享你的测速页面后，请注意观察服务器流量使用情况，避免流量使用异常。
+本项目为 [LibreSpeed](https://github.com/librespeed/speedtest) 的延伸项目，LibreSpeed 是一个非常轻巧的网站测速工具。 
+
+speedtest-x 使用文件数据库来保存来自不同用户的测速结果，方便您查看全国不同地域与运营商的测速效果。 
+
+[加入交流 TG 群](https://t.me/xiaozhu5) 
+
+开源地址：[https://github.com/BadApple9/speedtest-x](https://github.com/BadApple9/speedtest-x) 
+
+建议反馈： [https://github.com/BadApple9/speedtest-x/issues](https://github.com/BadApple9/speedtest-x/issues) 
+
+更新日志； [https://github.com/BadApple9/speedtest-x#更新记录](https://github.com/BadApple9/speedtest-x#更新记录) 
+
+注意：基于网页测速的原理，程序会生成无用文件供测速者下载来计算真实下行带宽，一定程度上存在被恶意刷流量的风险，在对外分享你的测速页面后，请注意观察服务器流量使用情况，避免流量使用异常。
 
 # 扩展细节
 
@@ -42,6 +54,4 @@ thumbnail:
 
 # 其他
 
-> 项目作者的广告，有需要的可以支持一下，本站不做担保
-
-Jetbrains 全家桶教育许可，正规国内大学渠道，9.9 元，购买地址：[https://xiaozhu.win](https://xiaozhu.win) 记得star哦
+记得star哦

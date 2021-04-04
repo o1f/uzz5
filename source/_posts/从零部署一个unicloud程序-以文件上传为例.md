@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 从零部署一个unicloud程序-以文件上传为例
+date: 2021-2-20 19:36:47
 categories:
   - - Web
 tags:
@@ -9,11 +9,15 @@ tags:
   - 白嫖
   - 经验
 id: '67'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/AFREGn7H.webp
 ---
 
 
-本文系转载,原文地址： [https://www.jingtaiboke.com/unicloud-upload-demo.html](https://www.jingtaiboke.com/unicloud-upload-demo.html) 问题，建议及反馈请前往原文留言讨论。 根据原文所介绍，dcloud 的用处可不仅仅是做图床文件外链那么简单了，希望各位开发者好好利用，而不是滥用。 本博客不推荐做长期文件储存来用的，数据不保证，无法有效备份。（还不如GitHub+jsd，可以定时任务进行备份，单文件20M对于图片以及静态资源够用了） 疑似开发者在原文中的回应 ![请输入图片描述](https://cdn.uzz5.com/imgs/2021/02/28/j6X0J1VZ.webp "请输入图片描述") 以下为原文：
+本文系转载,原文地址： [https://www.jingtaiboke.com/unicloud-upload-demo.html](https://www.jingtaiboke.com/unicloud-upload-demo.html) 问题，建议及反馈请前往原文留言讨论。 
+
+根据原文所介绍，dcloud 的用处可不仅仅是做图床文件外链那么简单了，希望各位开发者好好利用，而不是滥用。 本博客不推荐做长期文件储存来用的，数据不保证，无法有效备份。（还不如GitHub+jsd，可以定时任务进行备份，单文件20M对于图片以及静态资源够用了） 疑似开发者在原文中的回应 ![请输入图片描述](https://cdn.uzz5.com/imgs/2021/02/28/j6X0J1VZ.webp "请输入图片描述") 
+
+以下为原文：
 
 > 本文将从零部署一个基于阿里云免费cnd的文件上传程序,演示整个部署过程以及一些坑
 

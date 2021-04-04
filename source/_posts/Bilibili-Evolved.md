@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'Bilibili-Evolved: 强大的哔哩哔哩增强脚本'
+date: 2021-2-21 19:29:36
 categories:
   - - Web
 tags:
@@ -8,11 +8,14 @@ tags:
   - 插件
   - 油猴
 id: '74'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/uVlkYR2S.webp
 ---
+强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 
+开源地址： [https://github.com/the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) 
 
-开源地址： [https://github.com/the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) 建议反馈： [https://github.com/the1812/Bilibili-Evolved/issues](https://github.com/the1812/Bilibili-Evolved/issues) 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
+建议反馈： [https://github.com/the1812/Bilibili-Evolved/issues](https://github.com/the1812/Bilibili-Evolved/issues) 
+
 
 # 安装
 

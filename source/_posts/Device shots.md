@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'Device shots: 高分辨率多设备屏幕带壳截图免费制作网站'
+date: 2021-2-27 19:20:37
 categories:
   - - Web
 tags:
@@ -9,7 +9,7 @@ tags:
   - 工具
   - 网站
 id: '97'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/hYWRaXtc.webp
 ---
 
 

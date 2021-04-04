@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'Alist: 基于 golang 的阿里云盘的目录文件列表程序'
+date: 2021-3-1 19:19:21
 categories:
   - - Web
 tags:
@@ -8,7 +8,7 @@ tags:
   - 开源
   - 网盘
 id: '99'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/01/KItj9yFA.webp
 ---
 
 
@@ -26,7 +26,7 @@ thumbnail:
 
 ## 预览
 
-![请输入图片描述](https://cdn.uzz5.com/imgs/2021/03/01/LUNB9q2H.webp "请输入图片描述")
+![请输入图片描述](https://cdn.uzz5.com/imgs/2021/03/01/LUNB9q2H.webp)
 
 ## 支持的功能
 

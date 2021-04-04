@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'CMWTAT Digital Edition： 开源 Win10 数字权利（数字许可证）激活工具'
+date: 2021-2-21 19:32:33
 categories:
   - - Win
 tags:
@@ -13,7 +13,13 @@ thumbnail:
 ---
 
 
-开源地址：[https://github.com/TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) 下载地址：[https://github.com/TGSAN/CMWTAT\_Digital\_Edition/releases](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)（也可到官方网站下载） 官方网站：[https://cmwtat.cloudmoe.com](https://cmwtat.cloudmoe.com) 一款使用`CSharp`编写的 `Windows 10` 数字权利激活工具。 UI界面截图
+开源地址：[https://github.com/TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) 
+
+下载地址：[https://github.com/TGSAN/CMWTAT\_Digital\_Edition/releases](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)
+
+（也可到官方网站下载） 官方网站：[https://cmwtat.cloudmoe.com](https://cmwtat.cloudmoe.com) 
+
+一款使用`CSharp`编写的 `Windows 10` 数字权利激活工具。 UI界面截图
 
 ## Usage 使用
 

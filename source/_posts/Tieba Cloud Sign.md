@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'Tieba Cloud Sign: 百度贴吧云签到,配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能'
+date: 2021-2-22 19:28:41
 categories:
   - - Other
 tags:
@@ -8,15 +8,23 @@ tags:
   - 开源
   - 贴吧
 id: '79'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/rWGqj7ti.webp
 ---
 
 
-开源地址: [https://github.com/MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) 详细文档: [https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)
+开源地址: [https://github.com/MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) 
+
+详细文档: [https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)
 
 ## 百度贴吧云签到
 
-在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。 配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。 获取插件，教程，扩展，资料等请前往Wiki [Git@OSC](https://git.oschina.net/kenvix/Tieba-Cloud-Sign/wikis/home) [GitHub](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)
+在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。 配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。 
+
+获取插件，教程，扩展，资料等请前往Wiki 
+
+[Git@OSC](https://git.oschina.net/kenvix/Tieba-Cloud-Sign/wikis/home) 
+
+[GitHub](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)
 
 ## 使用Docker-Compose快速部署
 
