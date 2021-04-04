@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'Bing wallpaper: 微软出品,自动应用Bing每日图片做背景'
+date: 2021-3-10 18:52:22
 categories:
   - - Win
 tags:
@@ -11,7 +11,7 @@ tags:
   - 系统
   - 软件
 id: '273'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/10/4xNAo7wU.webp
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: 'PicUploader: 一款优秀的自用图床程序'
+date: 2021-3-10 18:48:00
 categories:
   - - Web
 tags:
@@ -9,7 +9,7 @@ tags:
   - 工具
   - 开源
 id: '274'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/10/q8ANFx9Y.webp
 ---
 
 
@@ -81,4 +81,6 @@ git clone https://github.com.cnpmjs.org/xiebruce/PicUploader.git .
 
 ## 其他
 
-反馈建议: [https://github.com/xiebruce/PicUploader/issues](https://github.com/xiebruce/PicUploader/issues) 更多请查看项目文档,或作者博文: [https://www.xiebruce.top/17.html](https://www.xiebruce.top/17.html)
+反馈建议: [https://github.com/xiebruce/PicUploader/issues](https://github.com/xiebruce/PicUploader/issues) 
+
+更多请查看项目文档,或作者博文: [https://www.xiebruce.top/17.html](https://www.xiebruce.top/17.html)
