@@ -1,8 +1,8 @@
 ---
 title: 'MWordStar: 响应式双栏 Typecho 博客主题'
-date: 2021-3-7 19:07:29
 categories:
-  - [Web, Typecho]
+  - - Web
+    - Typecho
 tags:
   - Blog
   - Github
@@ -10,7 +10,9 @@ tags:
   - 主题
   - 开源
 id: '241'
-thumbnail: https://cdn.uzz5.com/imgs/2021/03/07/AP03FF1i.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/03/07/AP03FF1i.webp'
+abbrlink: ac4
+date: 2021-03-07 19:07:29
 ---
 
 

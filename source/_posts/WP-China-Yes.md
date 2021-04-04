@@ -1,15 +1,17 @@
 ---
 title: 'WP-China-Yes: 解决国内 wordpress 更新 插件/主题 慢/错误 的最有效方法'
-date: 2021-2-24 19:24:24
 categories:
-  - [Web, Wordpress]
+  - - Web
+    - Wordpress
 tags:
   - Wordpress
   - 工具
   - 开源
   - 插件
 id: '88'
-thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/vd6OIoF1.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/vd6OIoF1.webp'
+abbrlink: e1db
+date: 2021-02-24 19:24:24
 ---
 
 

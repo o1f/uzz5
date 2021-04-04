@@ -1,14 +1,16 @@
 ---
 title: 'white: 一款极简设计风格单栏 typecho 主题'
-date: 2020-12-18 19:50:40
 categories:
-  - [Web, Typecho]
+  - - Web
+    - Typecho
 tags:
   - Github
   - Typecho
   - 主题
 id: '20'
-thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/BzGTN6Aj.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/BzGTN6Aj.webp'
+abbrlink: 45aa
+date: 2020-12-18 19:50:40
 ---
 
 

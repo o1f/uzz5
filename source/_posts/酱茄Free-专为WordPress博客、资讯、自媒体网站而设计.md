@@ -1,8 +1,8 @@
 ---
 title: '酱茄Free: 专为WordPress博客、资讯、自媒体网站而设计'
-date: 2021-3-12 23:31:43
 categories:
-  - [Web, Wordpress]
+  - - Web
+    - Wordpress
 tags:
   - Blog
   - Github
@@ -10,7 +10,9 @@ tags:
   - 免费
   - 分享
   - 开源
-thumbnail: https://cdn.uzz5.com/imgs/2021/03/12/RZm4ylNv.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/03/12/RZm4ylNv.webp'
+abbrlink: f435
+date: 2021-03-12 23:31:43
 ---
 
 

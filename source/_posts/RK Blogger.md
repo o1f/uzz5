@@ -1,13 +1,15 @@
 ---
 title: 'RK Blogger: 免费WordPress资讯博客主题'
-date: 2021-2-24 19:27:26
 categories:
-  - [Web, Wordpress]
+  - - Web
+    - Wordpress
 tags:
   - 主题
   - 免费
 id: '87'
-thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/KWgI6SfJ.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/KWgI6SfJ.webp'
+abbrlink: '3887'
+date: 2021-02-24 19:27:26
 ---
 
 今天推荐的是 闪电博 的一款免费主题,之前有使用过,功能简单,页面简洁,优化较好,很优秀的一款主题. 配合插件使用也可以做下载站. 

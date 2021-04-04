@@ -1,13 +1,15 @@
 ---
 title: 'W : Write & Watch 专注写作,享受阅读 一款简洁的 Typecho 主题'
-date: 2020-12-19 19:48:36
 categories:
-  - [Web, Typecho]
+  - - Web
+    - Typecho
 tags:
   - Github
   - 主题
 id: '21'
-thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/tshozJXh.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/tshozJXh.webp'
+abbrlink: f322
+date: 2020-12-19 19:48:36
 ---
 
 

@@ -1,13 +1,15 @@
 ---
 title: 'Akina: 简洁大气单栏 typecho 主题'
-date: 2021-1-28 19:57:30
 categories:
-  - [Web, Typecho]
+  - - Web
+    - Typecho
 tags:
   - 主题
   - 开源
 id: '46'
-thumbnail: https://cdn.uzz5.com/imgs/2021/02/28/TlcUjGXR.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/TlcUjGXR.webp'
+abbrlink: 4b88
+date: 2021-01-28 19:57:30
 ---
 
 

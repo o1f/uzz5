@@ -1,8 +1,8 @@
 ---
 title: 'Morecho: 基于 Bootstrap 框架制作双层三栏 Typecho 主题'
-date: 2021-3-10 18:46:53
 categories:
-  - [Web, Typecho]
+  - - Web
+    - Typecho
 tags:
   - Blog
   - Github
@@ -12,7 +12,9 @@ tags:
   - 分享
   - 开源
 id: '278'
-thumbnail: https://cdn.uzz5.com/imgs/2021/03/10/5lYROgMu.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/03/10/5lYROgMu.webp'
+abbrlink: c7c2
+date: 2021-03-10 18:46:53
 ---
 
 

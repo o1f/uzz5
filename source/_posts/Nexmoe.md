@@ -1,8 +1,8 @@
 ---
 title: 'Nexmoe: 一个特别的 Typecho 主题'
-date: 2021-3-10 18:52:56
 categories:
-  - [Web, Typecho]
+  - - Web
+    - Typecho
 tags:
   - Blog
   - Github
@@ -11,7 +11,9 @@ tags:
   - 免费
   - 开源
 id: '271'
-thumbnail: https://cdn.uzz5.com/imgs/2021/03/10/IqhmB5Pu.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/03/10/IqhmB5Pu.webp'
+abbrlink: 9b92
+date: 2021-03-10 18:52:56
 ---
 
 
