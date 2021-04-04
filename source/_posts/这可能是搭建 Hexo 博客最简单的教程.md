@@ -1,5 +1,5 @@
 ---
-title: 这可能是搭建 Hexo 博客最简单的教程
+title: '这可能是搭建 Hexo 博客最简单的教程'
 date: 2021-3-16 23:26:08
 categories:
   - - Web

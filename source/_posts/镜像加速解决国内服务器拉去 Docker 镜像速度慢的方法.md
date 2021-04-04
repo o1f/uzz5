@@ -1,6 +1,6 @@
 ---
-title: 文章名
-date: 时间
+title: '镜像加速解决国内服务器拉去 Docker 镜像速度慢/失败的方法'
+date: 2021-3-7 19:01:58
 categories:
   - - Other
 tags:
@@ -10,7 +10,7 @@ tags:
   - 开发
   - 阿里云
 id: '265'
-thumbnail:
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/10/EYAFYGDB.webp
 ---
 
 

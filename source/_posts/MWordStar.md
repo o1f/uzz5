@@ -1,0 +1,39 @@
+---
+title: 'MWordStar: 响应式双栏 Typecho 博客主题'
+date: 2021-3-7 19:07:29
+categories:
+  - - Typecho
+tags:
+  - Blog
+  - Github
+  - Typecho
+  - 主题
+  - 开源
+id: '241'
+thumbnail: https://cdn.uzz5.com/imgs/2021/03/07/AP03FF1i.webp
+---
+
+
+开源地址: [https://github.com/changbin1997/MWordStar](https://github.com/changbin1997/MWordStar) 
+
+下载地址: [https://github.com/changbin1997/MWordStar/releases](https://github.com/changbin1997/MWordStar/releases) 
+
+演示Demo: [https://www.misterma.com/](https://www.misterma.com/) (作者网站) 
+
+主题使用说明：[https://mwordstar.misterma.com/](https://mwordstar.misterma.com/) 
+
+留言板：[https://www.misterma.com/msg.html](https://www.misterma.com/msg.html)  
+
+## 预览
+
+*   主题首页
+
+![](https://cdn.uzz5.com/imgs/2021/03/07/BIDHoMyZ.webp)
+
+*   主题元素包含圆角和直角两种风格，您可以根据喜好在主题外观设置中切换，下面是直角风格的首页截图
+
+![](https://cdn.uzz5.com/imgs/2021/03/07/BON1UZ37.webp)
+
+*   主题还包含了几套不同风格的配色，您可以根据喜好在主题外观设置中切换。
+
+![](https://cdn.uzz5.com/imgs/2021/03/07/NMyc5m9B.webp)
