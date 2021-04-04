@@ -2,7 +2,7 @@
 title: 'Morecho: 基于 Bootstrap 框架制作双层三栏 Typecho 主题'
 date: 2021-3-10 18:46:53
 categories:
-  - - Web
+  - - Typecho
 tags:
   - Blog
   - Github

@@ -2,7 +2,7 @@
 title: 'Kratos: 专注于用户阅读体验的响应式 WordPress 主题'
 date: 2021-3-7 19:05:56
 categories:
-  - - Web
+  - - Wordpress
 tags:
   - Blog
   - Github
