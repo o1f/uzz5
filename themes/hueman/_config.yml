@@ -2,10 +2,10 @@
 menu:
     Home: /
     # Delete this row if you don't want categories in your header nav bar
-    Categories:
-    - Win
-    - Web
-    - Other
+    categories:
+        - Win
+        - Web
+        - Other
     #Win: /categories/Win/
     #Web: /categories/Web/
     #Other: /categories/Other/
