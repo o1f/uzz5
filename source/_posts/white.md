@@ -2,7 +2,7 @@
 title: 'white: 一款极简设计风格单栏 typecho 主题'
 date: 2020-12-18 19:50:40
 categories:
-  - - Typecho
+  - [Web, Typecho]
 tags:
   - Github
   - Typecho

@@ -2,7 +2,7 @@
 title: 'Nexmoe: 一个特别的 Typecho 主题'
 date: 2021-3-10 18:52:56
 categories:
-  - - Typecho
+  - [Web, Typecho]
 tags:
   - Blog
   - Github
