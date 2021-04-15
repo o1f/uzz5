@@ -1,0 +1,76 @@
+---
+title: 'OneNav: 开源书签管理系统'
+categories:
+  - Web
+tags:
+  - 开源
+  - Github
+  - 工具
+  - 免费
+  - 源码
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/14/Syz4kkrp.webp'
+abbrlink: 62ad
+date: 2021-04-14 17:48:42
+---
+
+`OneNav`是一款使用`PHP` + `SQLite 3`开发的导航/书签管理器，由[`xiaoz`](https://www.xiaoz.me/)开发。支持`Material Design`风格，界面简洁，使用方便。
+
+<!-- more -->
+
+开源地址: https://github.com/helloxz/onenav
+详细文档: https://www.yuque.com/helloz/onenav
+
+## 特点
+
+* 支持后台管理
+* 支持私有链接
+* 支持链接信息自动识别
+* 支持`API`
+* 支持多种主题风格（默认内置2套模板）
+
+## 预览
+
+[Demo演示](https://nav.rss.ink/)
+
+![默认主题](https://cdn.uzz5.com/imgs/2021/04/14/9ALCD9Ti.webp)
+
+![第三方主题](https://cdn.uzz5.com/imgs/2021/04/14/jFhS1auV.webp)
+
+![后台界面](https://cdn.uzz5.com/imgs/2021/04/14/8hDPM3w0.webp)
+
+## 部署
+
+### 常规部署
+1. 需安装PHP环境，并确保支持SQLite3
+2. 下载源码解压到站点根目录
+3. 将`config.simple.php`复制为`data/config.php`并填写自己的站点信息
+4. 访问后台：`http://IP/index.php?c=login`
+
+### Docker部署
+
+```shell
+docker run -itd --name="onenav" -p 80:80 \
+    -e USER='xiaoz' -e PASSWORD='xiaoz.me' \
+    -v /data/onenav:/data/wwwroot/default/data \
+    helloz/onenav
+```
+
+* `USER`：设置用户名，上述设置为`xiaoz`
+* `PASSWORD`：设置密码，上述设置为`xiaoz.me`
+* `/data/onenav`：本机挂载目录，用于持久存储`Onenav`数据
+
+> 更多说明，请参考帮助文档：https://www.yuque.com/helloz/onenav
+
+## 宝塔一键部署
+
+![宝塔一键部署](https://cdn.uzz5.com/imgs/2021/04/14/K4o82IC4.webp)
+目前已支持常规安装、`Docker`安装，宝塔后台一键安装。参考安装文档：https://www.yuque.com/helloz/onenav/install
+
+
+## 其他
+
+昨天刚刚转载了一篇导航站的文章,就看到了这个项目,更适合个人使用,管理自己的书签.
+
+推荐阅读: https://www.xiaoz.me/archives/15508
+原文: https://www.xiaoz.me/archives/15917
+更多请访问[开源地址](https://github.com/helloxz/onenav)或[原地址](https://www.xiaoz.me/archives/15917)反馈交流.

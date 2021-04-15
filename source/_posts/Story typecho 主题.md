@@ -1,0 +1,39 @@
+---
+title: 'Story: 简洁网格布局 Typecho 主题'
+categories:
+  - - Web
+    - Typecho
+tags:
+  - 主题
+  - 开源
+  - Github
+  - Typecho
+  - Blog
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/12/qahtOlDx.webp'
+abbrlink: 83ed
+date: 2021-04-12 17:57:33
+---
+
+`Story`: 每个人都有属于自已的故事，我们编织着、叙述着，只为了那个必定动人的结局。
+
+爱上自已的故事，爱上别人的故事，交织着的，是美好，是快乐，是幸福。
+
+<!-- more -->
+
+[演示Demo](https://yumoe.com/) | [开源地址](https://github.com/txperl/Story-for-Typecho) | [下载地址](https://github.com/txperl/Story-for-Typecho/releases) 
+
+## 预览
+
+![](https://cdn.uzz5.com/imgs/2021/04/12/t2xcYFoG.webp)
+![](https://cdn.uzz5.com/imgs/2021/04/12/O7HEz8Xl.webp)
+
+更多请访问[演示Demo](https://yumoe.com/)
+
+问题建议请移步开源地址: https://github.com/txperl/Story-for-Typecho
+
+## 其他 
+
+移植版本
+Halo : https://github.com/halo-dev/halo-theme-story
+VeriPress: https://github.com/txperl/Story-for-VeriPress
+纸小墨: https://github.com/akkuman/ink-theme-story

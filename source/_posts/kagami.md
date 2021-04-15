@@ -1,0 +1,29 @@
+---
+title: kagami：一款简洁的单栏 WordPress 主题
+categories:
+  - - Web
+    - Wordpress
+tags:
+  - Github
+  - 主题
+  - 开源
+id: '38'
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/zsEc4d7d.webp'
+abbrlink: 6o1z
+date: 2021-01-23 01:23:23
+---
+
+
+[GitHub](https://github.com/jinkanhq/kagami) | [Demo](https://lab.jinkan.org/)
+
+# Features：
+
+- 首页文章单栏大图展示 
+- 支持使用 jsDelivr 
+- 简单美观，内置 tags、代码高亮样式 
+- 部署配置简单（同时功能有限） 
+- 适配移动端
+
+# 预览
+
+![请输入图片描述](https://cdn.uzz5.com/imgs/2021/02/28/XkCarvmH.webp "请输入图片描述") ![请输入图片描述](https://cdn.uzz5.com/imgs/2021/02/28/z73emBcq.webp "请输入图片描述") 因为外观样式想要将其介绍给大家，是我喜欢的「简单美观」风格，但功能简陋得甚至不如某些静态博客主题。博客提供的自定义空间不多，大家只能前往“主题自定义”或者修改 PHP 代码来实现自定义样式 还有一些不成熟的地方，比如默认使用置顶或者最新文章的封面，虚化后作为博客背景。对我这种喜欢用白底大字的人来讲非常不友好，建议用色彩丰富的图片作为背景。再比如顶部菜单默认显示一级菜单，但完全没有考虑到二级菜单，不能自动收起展开
