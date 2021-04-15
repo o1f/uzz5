@@ -1,0 +1,166 @@
+---
+title: 'Pre-cache: 网站预缓存工具，提升网站整体加载速度'
+categories:
+  - Other
+tags:
+  - Liunx
+  - Docker
+  - Cdn
+  - 建站
+  - 开源
+  - 优化
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/15/rLFC0oie.webp'
+abbrlink: 9b99
+date: 2021-04-15 18:26:39
+---
+
+
+网站预缓存脚本，全量拉取`sitemap`里面的网址来实现预缓存，支持使用`CDN`或本地有静态缓存的网站。
+<!--more-->
+之前网站虽然使用了百度`CDN`,但源站在`Vercel`上,回源较慢,导致访问速度不佳,后来想反正是静态,直接全部预缓存,全部交给百度云加速.
+
+在论坛请教了大佬,配置了自定义页面,使用笨方法,用`IDM`抓全站,好在页面不多,所需时间不算太长,也是很麻烦.
+
+昨天在[zhang.ge](https://zhang.ge/)博客看到了他写的预缓存脚本,自己测试了一下,效果很好,推荐给大家.
+
+开源地址: https://github.com/jagerzhang/Pre-cache
+
+## 使用方法
+
+首先需要站点地图 `stiemap.xml` , 脚本是按照站点地图索引模拟访问预缓存的. 各程序均有插件,自行安装调试
+
+### 基于Docker运行
+
+安装`Docker` ,拉取镜像 `jagerzhang/pre-cache:latest`
+
+然后依次执行
+
+```shell
+docker run --rm --net=host -ti jagerzhang/pre-cache:latest \
+    --sitemap=https://www.uzz5.com/sitemap.xml \
+    --cacheheader=yjs-cachestatus
+```
+
+如果是拉取`DockerHub`的速度太慢，也可以先在本地编译`Docker`镜像，再跑上面的命令，编译方法如下：
+
+```shell
+git clone https://github.com/jagerzhang/Pre-cache.git
+cd Pre-cache
+docker build -t jagerzhang/pre-cache:latest ./
+```
+
+### 基于代码运行
+
+基于代码运行需要先初始化一下`Python`环境，按装工具所依赖的组件，具体命令如下：
+
+```shell
+git clone https://github.com/jagerzhang/Pre-cache.git
+cd Pre-cache
+yum install -y python-pip
+pip install --upgrade pip -i https://mirrors.aliyun.com/pypi/simple/
+pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
+```
+
+依赖环境初始化完成后，执行如下命令开始预缓存：
+
+```shell
+python pre_cache.py \
+    --sitemap=https://www.uzz5.com/sitemap.xml \
+    --cacheheader=yjs-cachestatus
+```
+
+### 基于对象引用
+
+同样工具也支持在其他`Python`脚本中来作为对象引用，示例代码如下：
+
+```python
+from pre_cache import preCache
+pre = preCache(sitemap="https://www.uzz5.com/sitemap.xml",
+                   host=None,
+                   size=10,
+                   timeout=10,
+                   cache_header="yjs-cachestatus",
+                   user_agent="Pre-cache/python-requests/2.22.0",
+                   verify=False)
+pre.start()        
+```
+
+## 结果预览
+
+![因为我刚才把CDN打开,刚刚关闭调试,所以部分统计有误,但不影响效果](https://cdn.uzz5.com/imgs/2021/04/15/nMuga0hC.webp)
+
+## 参数说明
+
+|参数|必须|默认值|说明|
+|-|-|-|-|
+|--sitemap / -s	|是|无|指定网站地图sitemap文件网址，必须为xml文件格式。|
+|--cacheheader / -c	|否|无|指定响应头里面的缓存标识名称，比如CF为cf-cache-status，不指定不影响功能，但是无统计信息。|
+|--host / -H		|否|无|指定具体主机来访问页面，即绕过CDN或代理访问真实主机，支持端口，比如 127.0.0.1:8080|
+|--size / -S	|否|20|指定预缓存时并发访问的数量，并非越大越好，需要自定测试整体耗时来得出最佳值。|
+|--useragent / -u	|否|见说明|自定义请求时的User-Agent标识来模拟客户端，默认值：Pre-cache/python-requests/xx.xx。|
+|--timeout / -t	|否|10|指定单个请求的超时时间，默认10秒。|
+|--timeout / -t	|否|False|是否验证SSL证书，保持默认即可，开启验证可能无法支持指定--host来预缓存。|
+
+### sitemap
+整个工具的原理是先请求`sitemap`内容，然后对`sitemap`里面的`url`进行爬扫，因此`--sitemap`这个参数是必须参数，指定为网站的`sitemap`地址即可，比如：`--sitemap=https://www.uzz5.com/sitemap.xml`，需要注意的是这个`xml`必须是`xml`格式，这里推荐使用`zhang.ge`博客之前分享的[sitemap纯代码版本](https://zhang.ge/4554.html)。如果是用插件生成的，可能是多个`sitemap`地址，然后有一个汇总的`sitemap`导航，这种情况的话只需要将这个参数指定为具体的分页`sitemap`地址，且需要分别执行多次。
+
+### cacheheader
+这个参数是指定网页被缓存后，`Header`头部中的HIT标识，常见的头部标识如下：
+
+|缓存类型|头部名称|常见值|
+|-|-|-|
+|Nginx 缓存|X-Cache/或自定义|HIT，MISS，EXPIRED，BYPASS|
+|CloudFlare|cf-cache-status|HIT，MISS，EXPIRED，BYPASS|
+|腾讯云CDN|x-cache-lookup|HIT/MISS/EXPIRED/BYPASS From Upstream/XXX|
+|阿里云CDN|X-Cache|HIT，MISS，EXPIRED，BYPASS|
+
+如果不在上述类别或者自定义过，我们也可以通过浏览器开发者模式查看，方法为：浏览器打开页面-->`F12`-->`NETWORK`-->刷新-->查看响应头：
+
+![](https://cdn.uzz5.com/imgs/2021/04/15/PdflwEGy.webp)
+
+### host
+
+这个参数就比较实用了，可以指定真实IP来访问网页，且支持自定义端口。比如 --host=127.0.0.1 或 --host=127.0.0.1:8080，指定后工具将会请求到指定的主机进行资源拉取实现指定节点预缓存。比如张戈博客开了CDN缓存同时本地也开启了Nginx缓存，我就可以如下分2步执行：
+
+```shell
+# 先本地预缓存：
+python pre_cache.py \
+   --sitemap=https://www.uzz5.com/sitemap.xml \
+   --host=127.0.0.1:8443 \     # 指定本地WEB服务监听的8443端口
+   --cacheheader=x-cache-redis # 我这边自定义了一个缓存头
+ 
+# 然后CDN预缓存（这里需要伪造一下浏览器UA，否则CloudFlare拦截大部分请求，当然伪造后也会有少量拦截，影响不大）：
+python pre_cache.py \
+   --sitemap=https://www.uzz5.com/sitemap.xml \
+   --cacheheader=cf-cache-status \
+   --useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+```
+
+### 定时任务
+
+上文已经详细介绍了如何运行这个工具，那接着我们需要通过`crontab`添加一个定时任务，定期进行预缓存。
+
+```shell
+#!/bin/bash
+source /etc/profile
+# 注意：通过crontab执行docker是没有tty终端的，所以下面的docker的参数不能有-t
+# 百度云加速预缓存
+docker run --net=host --rm -i \
+    jagerzhang/pre-cache:latest \
+    --sitemap=https://www.uzz5.com/sitemap.xml \
+    --cacheheader=yjs-cachestatus
+    --size=50 
+```
+然后在系统`crontab`里面添加一个定时任务，每小时执行一次：
+
+```shell
+# 进入定时任务编辑，插入如下命令行：
+[root@localhost ~]# crontab -e 
+* 1 * * * bash /domp/opt/pre_cache.sh >/dev/null 2>&1
+# :wq保存退出
+```
+
+## 其他
+
+本文仅做引介, 原文地址: https://zhang.ge/5154.html 
+更多请前往原文评论反馈,或提交[issues](https://github.com/jagerzhang/Pre-cache/issues)
