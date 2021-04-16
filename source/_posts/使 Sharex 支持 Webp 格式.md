@@ -39,6 +39,7 @@ date: 2021-04-16 18:07:17
 ## 其他
 
 体验下来感觉不错,压缩率尚可,对背景透明的也可以兼容(之前介绍的方法不可以,需要修改参数).
+
 缺点:仅支持`png`,大图转换时间可能会比较久.
 
-参考: https://github.com/ShareX/ShareX/issues/5250
+参考: https://github.com/ShareX/ShareX/issues/5250#issuecomment-740691480
