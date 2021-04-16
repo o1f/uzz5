@@ -159,7 +159,12 @@ docker run --net=host --rm -i \
 * 1 * * * bash /domp/opt/pre_cache.sh >/dev/null 2>&1
 # :wq保存退出
 ```
+### 宝塔
+很多小伙伴使用宝塔面板,可以在计划任务内添加任务
 
+![](https://cdn.uzz5.com/imgs/2021/04/16/ETUjZb3l.webp)
+![](https://cdn.uzz5.com/imgs/2021/04/16/GhDUofqw.webp)
+> 记得删除`\` ,修改为一句命令,否则无法正常运行.
 ## 其他
 
 本文仅做引介, 原文地址: https://zhang.ge/5154.html 

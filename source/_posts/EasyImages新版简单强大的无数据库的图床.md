@@ -71,6 +71,26 @@ api上传成功后返回json：
 {"result":"success","url":"https:\/\/img.545141.com\/public\/data\/2019\/05\/5ce64172d24fa.png"}
 ```
 如果关闭api上传，则什么都不显示。
+### Sharex 自定义
+
+分享一下 `Sharex` 自定义上传
+
+```json
+{
+  "Version": "13.4.0",
+  "Name": "EasyImage",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://img.545141.com/file.php",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "name": "$filename$"
+  },
+  "FileFormName": "file",
+  "URL": "$json:url$"
+}
+```
+把`https://img.545141.com/file.php`改为你自己的地址即可,公共上传,没有用户验证.
 
 ## 其他
 本图床程序为本地储存,暂未考虑对象储存.该图床好就好在页面简单,支持`API`
