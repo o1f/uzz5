@@ -46,10 +46,10 @@ PHP版本5.6以上，并且开启了eval函数
 
 ## 下载安装
 
-Github: [https://github.com/ghboke/CorePressWPTheme/releases](https://github.com/ghboke/CorePressWPTheme/releases) 
+Gitee: https://gitee.com/ghboke/corepress
 
-蓝奏云: [https://ghpym.lanzous.com/b00znf9kd](https://ghpym.lanzous.com/b00znf9kd)
+蓝奏云: https://ghpym.lanzous.com/b00znf9kd
 
 ## 其他
 
-建议反馈请移步: [https://github.com/ghboke/CorePressWPTheme/issues](https://github.com/ghboke/CorePressWPTheme/issues) 或 QQ群：664592923 
+建议反馈请移步: https://github.com/ghboke/CorePressWPTheme/issues 或 QQ群：664592923 
