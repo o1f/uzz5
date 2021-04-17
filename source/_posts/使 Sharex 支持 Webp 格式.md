@@ -9,8 +9,22 @@ tags:
   - 经验
 thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/16/TZVByuaP.webp'
 abbrlink: f782
-date: 2021-04-16 18:07:17
+date: 2021-4-18 01:33:15
 ---
+> 本文仅供查看,压缩率不尽人意,推荐阅读: https://www.uzz5.com/post/j9hs.html
+> 或者看一下这篇: https://capriccio.moe/archives/60/ 使用`ffmpeg`转换(如果你是用`sharex`录制这个软件是必装的,也就无需另外下载软件了)
+> 对不起,只顾水文章,没有严禁测试....
+
+
+![](https://cdn.uzz5.com/imgs/2021/04/18/Oby1v35p.webp)
+1. 原图 
+2. 本文介绍方法 https://cdn.uzz5.com/imgs/2021/04/18/m7ccBpiH.webp
+3. `FFmpeg` 转换 https://cdn.uzz5.com/imgs/2021/04/18/6LX2LBo9.webp
+4. `Imagemagick` 专业的事交给专业的软件 https://cdn.uzz5.com/imgs/2021/04/18/TDElmwhs.webp
+
+> 可以自行看一下图片差别
+
+
 
 之前写过一篇文章,简单介绍配合使用`imagemagick`转换成`Webp`格式([原文](https://www.uzz5.com/post/j9hs.html)),今天介绍另一种方法.
 
