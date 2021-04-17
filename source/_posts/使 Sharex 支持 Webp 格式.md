@@ -38,8 +38,9 @@ date: 2021-04-16 18:07:17
 
 ## 其他
 
-体验下来感觉不错,压缩率尚可,对背景透明的也可以兼容(之前介绍的方法不可以,需要修改参数).
+体验下来感觉不错,压缩率尚可(测试不如`imagemagick`!),对背景透明的也可以兼容.
 
 缺点:仅支持`png`,大图转换时间可能会比较久.
-
+本文仅提供一个方法,经测试,压缩率以及处理时间远远不如`imagemagick`
+还是推荐之前的文章: https://www.uzz5.com/post/j9hs.html
 参考: https://github.com/ShareX/ShareX/issues/5250#issuecomment-740691480
