@@ -53,4 +53,4 @@ abbrlink: b731
 
 ## 下载地址
 
-蓝奏云: https://z0x.lanzoui.com/i2gBJo6ew7i
+蓝奏云: https://z0x.lanzoui.com/ip1eeo8spsd
