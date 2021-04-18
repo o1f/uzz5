@@ -1,6 +1,6 @@
 ---
-title: 'Internet Download Manager 6.38.18 毛子大神修改版'
-date: 2021-4-8 21:18:22
+title: 'Internet Download Manager 6.38.21 毛子大神修改版'
+date: 2021-4-18 10:53:45
 categories:
   - - Win
 tags:
@@ -15,7 +15,7 @@ abbrlink: xkav
 
 # 预览
 
-![](https://cdn.uzz5.com/imgs/2021/03/01/6tRgbNPf.webp)
+![](https://cdn.uzz5.com/imgs/2021/04/18/WRoReUmQ.webp)
 
 # 使用说明
 
@@ -27,7 +27,7 @@ abbrlink: xkav
 
 # 下载地址
 
-蓝奏云: [https://wwwf.lanzoui.com/iCV3Nnt8uxi](https://www.lanzoui.com/iCV3Nnt8uxi)
+蓝奏云: https://z0x.lanzoui.com/iKILho8m0sh
 
 # 其他
 
