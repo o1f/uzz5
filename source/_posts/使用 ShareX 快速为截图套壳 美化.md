@@ -95,3 +95,5 @@ Windows Registry Editor Version 5.00
 
 原文: https://sspai.com/post/64354
 
+[Sharex](https://getsharex.com/) 是真的好用, 还是开源免费, 不整一个吗? 
+
