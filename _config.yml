@@ -99,12 +99,6 @@ marked:
     nofollow: false
   disableNunjucks: false
   descriptionLists: true
-
-# 网址推送
-webPushNotification:
-  webpushrKey: "1e63a29ec6306cfa1e1175ad16fa296b"
-  webpushrAuthToken: "27689"
-  trackingCode: "BEsSV-NQ-neMfRbkP-hv9Di7PhwGQQ3T-uWryR9Z-nT6OfnVsGkJFs2QRO3mM_2-u4m3wez9Ck8QGUiIb18-ITk"
 # sitemap
 sitemap:
   path: sitemap.xml
