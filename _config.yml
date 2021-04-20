@@ -114,6 +114,4 @@ theme: hueman
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@82.156.23.96:/home/uzz5.git
-  branch: master
+  type:
