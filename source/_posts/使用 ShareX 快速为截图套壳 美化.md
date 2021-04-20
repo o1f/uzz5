@@ -1,12 +1,13 @@
 ---
 title: 使用 ShareX 快速为截图套壳/美化
-date: 2021-4-20 20:55:52
 categories:
   - Win
 tags:
   - 图片
   - Sharex
-thumbnail: https://cdn.uzz5.com/imgs/2021/04/20/ON5BuAsv.webp
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/20/ON5BuAsv.webp'
+abbrlink: '9e46'
+date: 2021-04-20 20:55:52
 ---
 
 本人一直在使用`Sharex`,不仅仅是截图,添加水印,压缩转换,上传至图床,今天才发现它的另一项功能.
