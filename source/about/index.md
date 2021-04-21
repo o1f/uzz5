@@ -11,7 +11,7 @@ date: 2020-01-01 00:00:00
 博客主题: [Human](https://github.com/ppoffice/hexo-theme-hueman)
 
 
-使用了 `Visual Studio Code` 安装了 `Mrakdown` 插件编辑
+使用 `Visual Studio Code` 安装了 `Mrakdown` 插件编辑.
 
 效果不错,`Mrakdown`语法本来就简单直观,`VSCode`还有`Git`管理,直接提交推送.
 
