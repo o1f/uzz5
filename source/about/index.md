@@ -16,9 +16,9 @@ date: 2020-01-01 00:00:00
 
 效果不错,`Mrakdown`语法本来就简单直观,还有`Git`管理,直接提交推送了.
 
-~~构建部署就交给[vercel.com](https://vercel.com)了,访问速度挺快了,比`GitHub Pages`要好得多嗷.~~
+构建部署就交给[vercel.com](https://vercel.com)了,访问速度挺快了,比`GitHub Pages`要好得多嗷.
 
-因为前段时间腾讯有活动,就买了四年服务器,所以就部署到服务器了,[vercel.com](https://vercel.com)就做一个备份了.
+域名已备案,所以使用了百度`CDN`加速,使用 [Pre-cache](https://www.uzz5.com/post/9b99.html) 定时预缓存提高缓存率.
 
 ## 其他
 
