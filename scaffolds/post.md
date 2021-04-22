@@ -6,5 +6,6 @@ categories:
 tags:
 - 标签
 thumbnail: 封面图
+abbrlink: 
 ---
 
