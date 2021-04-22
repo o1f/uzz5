@@ -8,7 +8,6 @@ tags:
   - 图床
   - 工具
   - 开源
-id: '274'
 thumbnail: https://cdn.uzz5.com/imgs/2021/03/10/q8ANFx9Y.webp
 abbrlink: v1xv
 ---
