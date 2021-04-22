@@ -76,6 +76,23 @@ git clone https://github.com.cnpmjs.org/xiebruce/PicUploader.git .
 
 接着访问网址即可,我第一次部署的时候有报错,修改文件权限即可 ![](https://cdn.uzz5.com/imgs/2021/03/10/8sOzo3PH.webp) 配置内容较多,但都直观简洁,容易配置,不懂可以留言,我就不写了.
 
+## Docker 
+
+项目地址: https://github.com/artxia/PicUploader-Docker
+
+适合本地（群晖）安装，搭配`uPic`/`PicGo`使用 定期使用`GitHub Actions`自动打包上传`docker hub`
+
+```shell
+docker run -d --name picuploader \
+  --restart=always \
+  -e TZ="Asia/Shanghai" \
+  -e USER=admin \
+  -e PASSWD=admin \
+  -v ~/docker/config/config-local.php:/var/www/PicUploader/config/config-local.php \
+  -p 80:80 \
+  artxia/picuploader-docker
+  ```
+
 ## Sharex
 
 [https://www.xiebruce.top/1095.html#ShareX](https://www.xiebruce.top/1095.html#ShareX) 还是看作者的吧,更详细.
