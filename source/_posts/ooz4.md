@@ -59,3 +59,4 @@ typecho 分类直接拖
 ## 其他
 
 本主题基于: [WebStack](https://github.com/WebStackPage/WebStackPage.github.io) 开发.
+其他推荐: https://www.zmki.cn/5366.html
