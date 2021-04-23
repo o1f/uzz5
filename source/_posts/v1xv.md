@@ -13,7 +13,13 @@ abbrlink: v1xv
 ---
 
 
-我现在正在使用, 之前是利用程序中专上传到 `github` 做图床, 现在是上传到又拍云,因为之前提过建议,使用MD5验证文件,避免重复上传文件,很有用~ 作者反馈特别及时详细,特别推荐,有好的建议或者反馈可直接前往开源地址提 `issues` 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。 开源地址: [https://github.com/xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)
+我现在正在使用, 之前是利用程序中专上传到 `github` 做图床, 现在是上传到又拍云,因为之前提过建议,使用MD5验证文件,避免重复上传文件,很有用~ 
+
+作者反馈特别及时详细,特别推荐,有好的建议或者反馈可直接前往开源地址提 `issues` 
+
+一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。 
+
+开源地址: [https://github.com/xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)
 
 ## 主要功能
 
