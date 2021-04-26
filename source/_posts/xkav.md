@@ -23,7 +23,7 @@ abbrlink: xkav
 
 选好路径一路`next`即可 我这边默认为英文,设置更改语言. 
 
-![](https://cdn.uzz5.com/imgs/2021/03/01/D3GfR6jL.webp)
+![](https://cdn.uzz5.com/imgs/2021/04/26/oHQuXhdJ.webp)
 
 # 下载地址
 
