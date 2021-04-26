@@ -44,7 +44,7 @@ search:
 
 # Comment
 comment:
-    disqus: uzz5 # enter disqus shortname here
+    disqus: # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
@@ -80,7 +80,7 @@ comment:
         visitor: true # count reading numbers; If true, the numbers will also show below the title of every post
         recordip: #false # If true, record commenter's ip, which is shown in LeanCloud pannel
     gitalk:
-        on:  # enter true to enable gitalk
+        on: ture # enter true to enable gitalk
         owner: o1f # GitHub user name
         repo: uzz5 # GitHub repository name
         client_id: 6002930d22efe7c61283 # OAuth application client id
