@@ -44,7 +44,7 @@ search:
 
 # Comment
 comment:
-    disqus: # enter disqus shortname here
+    disqus: uzz5 # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
@@ -69,8 +69,8 @@ comment:
         on: # enter true to enable
     valine: # Valine Comment System https://github.com/xCss/Valine
         on:    # enter true to enable valine
-        appId: Q1h7MzOCpTiG8Ts9Ui4HVzAr-gzGzoHsz  # enter the leancloud application appId here
-        appKey: 6KjpAaHM1goNFpPMlLwQIWqD  # enter the leancloud application appKey here
+        appId:   # enter the leancloud application appId here
+        appKey:   # enter the leancloud application appKey here
         notify: # enter true to enable <Mail notifier>, default: false; https://github.com/xCss/Valine/wiki/Valine-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE
         verify: true # enter true to enable <Validation code>, default: false
         placeholder: Just Do It # enter the comment box placeholder
@@ -80,11 +80,11 @@ comment:
         visitor: true # count reading numbers; If true, the numbers will also show below the title of every post
         recordip: #false # If true, record commenter's ip, which is shown in LeanCloud pannel
     gitalk:
-        on: ture # enter true to enable gitalk
+        on:  # enter true to enable gitalk
         owner: o1f # GitHub user name
         repo: uzz5 # GitHub repository name
-        client_id: 6002930d22efe7c61283 # OAuth application client id
-        client_secret: 533aaa814620a1d457c56604aed56399aa76dc85 # OAuth application client secret
+        client_id:  # OAuth application client id
+        client_secret:  # OAuth application client secret
         admin: o1f # GitHub repo owner and collaborators who can initialize github issues
                # Can either be a string or an array.
 
