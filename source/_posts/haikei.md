@@ -13,6 +13,10 @@ abbrlink: haikei
 
 [官网](https://haikei.app/)|[在线工具](https://app.haikei.app/)
 
+## 预览
+
+![](https://cdn.uzz5.com/imgs/2021/05/22/WDf3BgoC.webp)
+
 ## 特点
 
 - 操作简单，极容易上手
