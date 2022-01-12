@@ -1,0 +1,48 @@
+---
+title: 'Ndpic: 极简免费瀑布流 Wordpress 图片主题'
+categories:
+  - - Web
+    - Wordpress
+tags:
+  - 主题
+  - Wordpress
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/11/scUgoAiO.webp'
+abbrlink: f709
+date: 2021-04-11 06:59:54
+---
+
+
+主题自带昼夜模式，多种列表样式，使款主题简约而不简单，再加上这款主题没有任何加密，二次开发起来也非常方便，是一款非常不错的`wordpress`图片主题。
+<!--more-->
+之前在`hostloc`上看到的,网上找了一圈,好多需要登录下载,甚至有些需要小钱钱(搬资源要点脸不).
+后来找到了原作者的站点: [主题君](https://www.ztjun.com/),需要加群下载,我加过了,分享给大家.
+
+QQ群: `772774006` ,也可以自己加入下载,群文件还有更多优秀作品,也可以进入与其他站长交流学习.
+
+## 主题功能
+
+* 昼夜双版，一键切换
+* 多种功能卡片，随意搭配
+* 体积小，速度快
+* 多种列表样式
+* 界面优美，简约大气
+* 永久免费，永久更新！
+
+## 预览
+
+### 演示网站
+
+[怪兽图](https://www.guaishoutu.com/)
+
+![](https://cdn.uzz5.com/imgs/2021/04/11/PHXRLXEI.webp)
+
+![](https://cdn.uzz5.com/imgs/2021/04/11/zDgZz6x2.webp)
+
+## 下载
+
+蓝奏云: [https://www.lanzoui.com/ijnP0nwnvmb](https://www.lanzoui.com/ijnP0nwnvmb)
+
+## 其他
+
+主题包只有`700kb+`,没有其他多余功能,特别简洁,同时也就是说功能不足,文章侧栏只有默认的小工具,无法添加其他及自定义.
+之前测试使用过,有点`bug`,就是天气模块异常,没有正常显示,不知道是不是因为我`php`没配置好的问题.

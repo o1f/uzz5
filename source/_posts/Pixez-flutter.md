@@ -1,0 +1,43 @@
+---
+title: 'Pixez-flutter: 一个支持免代理直连及查看动图的第三方Pixiv flutter移动客户端'
+categories:
+  - - App
+tags:
+  - Github
+  - 娱乐
+  - 应用
+  - 开源
+id: '54'
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/nBaBRkDy.webp'
+abbrlink: 8a3d
+date: 2021-02-12 01:19:12
+---
+
+
+使用 Flutter 编写的 pixiv 第三方客户端。 同样支持中国大陆地区直连。 
+
+开源地址: [https://github.com/Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
+
+## 下载
+
+## Android
+
+Google Play: [https://play.google.com/store/apps/details?id=com.perol.play.pixez](https://play.google.com/store/apps/details?id=com.perol.play.pixez) 
+
+Github: [https://github.com/Notsfsssf/pixez-flutter/releases](https://github.com/Notsfsssf/pixez-flutter/releases)
+
+## IOS
+
+App Store: [https://apps.apple.com/cn/app/pixez/id1494435126](https://apps.apple.com/cn/app/pixez/id1494435126)
+
+## 预览
+
+![](https://cdn.uzz5.com/imgs/2021/02/28/439OK9d3.webp) ![](https://cdn.uzz5.com/imgs/2021/02/28/NOdBJcrz.webp)
+
+## 其他
+
+[使用指南 & 常见问题在这里](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/FAQ.md)，反馈问题 / 加群询问之前请先看！（特别是旧原生版用户） 
+
+邮件反馈：[PxezFeedback@outlook.com](mailto:PxezFeedback@outlook.com) 也可以在 Telegram 群交流反馈：[@PixEzViewer](https://t.me/PixEzViewer) 也可以进企鹅群交流经验或者反馈：815791942（闲聊为主） 
+
+更多请移步项目开源地址查看.

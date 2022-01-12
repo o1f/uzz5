@@ -1,0 +1,58 @@
+---
+title: 'WebMonitor: 实时监控网页变化，并发送通知'
+categories:
+  - - Web
+tags:
+  - docker
+  - Github
+  - 工具
+  - 开源
+id: '55'
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/02/28/mJQnUL3k.webp'
+abbrlink: '2j1x'
+date: 2021-02-16 01:29:45
+---
+
+
+开源地址: [https://github.com/LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) 
+
+详细文档: [https://www.logicjake.xyz/WebMonitor/](https://www.logicjake.xyz/WebMonitor/)
+
+# 特性
+
+*   支持requests请求网页，支持使用PhantomJS抓取异步加载的网页
+*   支持 xpath 和 css selector 选择器，支持 JsonPath 提取 json 数据
+*   支持邮件，pushover，微信提醒（support by server酱），Bark推送，自定义GET/POST通知, Slack 通知以及 Telegram 通知
+*   支持一个任务多个选择器提取信息
+*   支持自定义消息模板
+*   简洁的UI，可视化操作
+*   支持自定义请求头，抓取需要登录的网页
+*   支持设置监控规则
+*   监控RSS更新
+*   数据导入导出
+
+# 预览
+
+![](https://cdn.uzz5.com/imgs/2021/02/28/zW89yKWS.webp) ![](https://cdn.uzz5.com/imgs/2021/02/28/zJvCVFEt.webp) ![](https://cdn.uzz5.com/imgs/2021/02/28/P38Rb6Be.webp) ![邮件通知](https://cdn.uzz5.com/imgs/2021/02/28/7wvrhlqW.webp "邮件通知")
+
+# 部署
+
+手动及Docker部署请查看: [https://www.logicjake.xyz/WebMonitor/#/install](https://www.logicjake.xyz/WebMonitor/#/install)
+
+## 宝塔面板部署
+
+使用宝塔面板建站的朋友挺多的,简单演示一些 
+
+![](https://cdn.uzz5.com/imgs/2021/02/28/pOckr8hU.webp )安装Docker管理 
+
+![](https://cdn.uzz5.com/imgs/2021/02/28/rVQ4UhX0.webp )拉取镜像 
+
+![](https://cdn.uzz5.com/imgs/2021/02/28/RukmYF1i.webp )配置容器
+
+# 其他
+
+![](https://cdn.uzz5.com/imgs/2021/02/28/Oci1dADp.webp ) 可以配合浏览器插件 `Distill Web Monitor` 使用 
+
+更多请访问: [https://www.logicjake.xyz/WebMonitor](https://www.logicjake.xyz/WebMonitor) 
+
+建议反馈请移步: [https://github.com/LogicJake/WebMonitor/issues](https://github.com/LogicJake/WebMonitor/issues) 或telegram交流群: [https://t.me/webmonitor\_github](https://t.me/webmonitor_github)

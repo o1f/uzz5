@@ -1,0 +1,64 @@
+---
+title: 'dev-sidecar: 为开发者提供部分反代加速服务'
+date: '2021-4-10 18:30:45'
+categories:
+  - Win
+tags:
+  - 开源
+  - 软件
+  - 工具
+  - 免费
+  - Github
+abbrlink: e7b6
+thumbnail: 'https://cdn.uzz5.com/imgs/2021/04/10/C3hK17mt.webp'
+---
+
+开发者边车，命名取自`service-mesh`的`service-sideca`，意为为开发者打辅助的边车工具
+通过本地代理的方式将`https`请求代理到一些国内的加速通道上
+
+开源地址: [https://github.com/docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)
+下载地址: 
+- [Gitee Release](https://gitee.com/docmirror/dev-sidecar/releases)  
+- [Github Release](https://github.com/docmirror/dev-sidecar/releases)  
+
+## 功能
+
+### 1、 dns优选（解决国内dns污染问题）
+* 根据网络状况智能解析最佳域名ip地址，获取最佳网络速度     
+* 不用`ｆａｎ qiang`也能解决一些网站和库无法访问或访问速度慢的问题
+* 建议遇到打开比较慢的国外网站，可以优先尝试将该域名添加到dns设置中（注意：被GFW封杀的无效）      
+
+### 2、 请求拦截
+* 拦截打不开的网站，代理到加速镜像站点上去。    
+* 可配置多个镜像站作为备份    
+* 具备测速机制，当访问失败或超时之后，自动切换到备用站点，使得目标服务高可用
+
+### 3、 github加速
+* release、source、zip下载加速
+* clone 加速
+* 头像加速
+* 解决readme中图片引用无法加载的问题
+* gist.github.com 加速
+* 解决git push 偶尔失败需要输入账号密码的问题（fatal: TaskCanceledException encountered  /  fatal: HttpRequestException encountered）
+* raw/blame加速
+
+### 4、 Stack Overflow 加速
+* 将ajax.google.com代理到加速CDN上     
+* recaptcha 图片验证码加速
+
+### 5、 npm加速
+* 支持开启npm代理
+* 官方与淘宝npm registry一键切换,
+* 某些npm install的时候，并且使用cnpm也无法安装时，可以尝试开启npm代理再试
+
+### 6、 增强功能
+
+## 预览
+
+![](https://cdn.uzz5.com/imgs/2021/04/10/ZNMtuPO2.webp)
+
+## 其他
+
+本工具主要进行一些网络优化,已便更有效率的开发工作.
+本文仅做引介.更多详情请访问开源地址.
+问题建议可加入QQ群:390691483 或 提交 [Issues](https://github.com/docmirror/dev-sidecar/issues)
