@@ -14,7 +14,7 @@ date: 2022-01-12 15:00:00
 
 演示站: https://file.zyku.me/
 
-![1641973311594.png](https://static.uzz5.com/imgs/2022/01/12/930b7e8229e0e.png)
+![预览](https://static.uzz5.com/imgs/2022/01/12/930b7e8229e0e.png)
 
 ## 特点
 

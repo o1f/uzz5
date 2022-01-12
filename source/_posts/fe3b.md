@@ -42,7 +42,7 @@ date: 2022-01-12 13:00:00
 
 ## 预览
 
-![1641970195671.png](https://static.uzz5.com/imgs/2022/01/12/c497b4f597b80.png)
+![首页](https://static.uzz5.com/imgs/2022/01/12/c497b4f597b80.png)
 
 ## 下载使用
 
