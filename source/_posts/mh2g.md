@@ -7,7 +7,7 @@ tags:
   - 主题
   - 免费
 id: '87'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/KWgI6SfJ.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/KWgI6SfJ.webp'
 abbrlink: 'mh2g'
 date: 2021-02-24 19:27:26
 ---
@@ -20,4 +20,4 @@ date: 2021-02-24 19:27:26
 
 # 主题预览
 
-详细介绍请跳转原文查看,本文仅做引荐,不再赘述(没错,我就是懒逼,复制都不想复制) ![](https://static.uzz5.com/imgs/2021/02/28/KTI4o8wm.webp )
+详细介绍请跳转原文查看,本文仅做引荐,不再赘述(没错,我就是懒逼,复制都不想复制) ![](https://static.uzz5.com/i/2021/02/28/KTI4o8wm.webp )

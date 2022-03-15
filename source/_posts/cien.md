@@ -6,7 +6,7 @@ tags:
   - 修改版
   - 工具
 id: '26'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/p9IIFnLJ.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/p9IIFnLJ.webp'
 abbrlink: cien
 date: 2020-12-24 00:57:56
 ---
@@ -16,9 +16,9 @@ date: 2020-12-24 00:57:56
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/t51OPjh9.webp) 
+![](https://static.uzz5.com/i/2021/02/28/t51OPjh9.webp) 
 
-![](https://static.uzz5.com/imgs/2021/02/28/xpmVNRec.webp)
+![](https://static.uzz5.com/i/2021/02/28/xpmVNRec.webp)
 
 # 修改内容
 

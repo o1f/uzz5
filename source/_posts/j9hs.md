@@ -6,7 +6,7 @@ tags:
   - 工具
   - 经验
 id: '9'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/27/gSunC711.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/27/gSunC711.webp'
 abbrlink: j9hs
 date: 2021-02-21 00:15:40
 ---
@@ -14,7 +14,7 @@ date: 2021-02-21 00:15:40
 
 ## webp 兼容
 
-[https://caniuse.com/?search=webp](https://caniuse.com/?search=webp) ![](https://static.uzz5.com/imgs/2021/02/27/OfeeuO5R.webp) 谷歌家推出的,所以说基本上全线产品支持,`chrouim` 系列浏览器就不多说了. `firefox`64以上版本也支持,现阶段就`ios`不支持了 .对于我来说问题不大,我又没有苹果手机了.也没得`ipad` 
+[https://caniuse.com/?search=webp](https://caniuse.com/?search=webp) ![](https://static.uzz5.com/i/2021/02/27/OfeeuO5R.webp) 谷歌家推出的,所以说基本上全线产品支持,`chrouim` 系列浏览器就不多说了. `firefox`64以上版本也支持,现阶段就`ios`不支持了 .对于我来说问题不大,我又没有苹果手机了.也没得`ipad` 
 
 * * *
 
@@ -46,11 +46,11 @@ date: 2021-02-21 00:15:40
 
 ### 动作设置位置
 
-![](https://static.uzz5.com/imgs/2021/02/27/VCbb3IlW.webp)
+![](https://static.uzz5.com/i/2021/02/27/VCbb3IlW.webp)
 
 ### imagemagick
 
-先添加 `imagemagick`动作 ![](https://static.uzz5.com/imgs/2021/02/27/zAXAYgIv.webp) 名称随意,路径选择`magick.exe`执行路径,例如`E:\Program Files\ImageMagick-7.0.10-Q16\magick.exe` 参数:
+先添加 `imagemagick`动作 ![](https://static.uzz5.com/i/2021/02/27/zAXAYgIv.webp) 名称随意,路径选择`magick.exe`执行路径,例如`E:\Program Files\ImageMagick-7.0.10-Q16\magick.exe` 参数:
 
 ```json
 clipboard: -strip -interlace Plane -sampling-factor 4:2:0  -quality 75% clipboard: "F:\Documents\ShareX\Screenshots\temp.webp"
@@ -62,19 +62,19 @@ clipboard: -strip -interlace Plane -sampling-factor 4:2:0  -quality 75% clipboar
 
 ### file2clip
 
-![](https://static.uzz5.com/imgs/2021/02/27/dA5PfhIc.webp) 名称随意,路径与`imagemagick`相似,为执行文件路径 参数就填写你刚才`imagemagick`设置存储`webp`的路径. 下面的隐藏窗口记得点,要不然截图之后会有窗口一闪而过...
+![](https://static.uzz5.com/i/2021/02/27/dA5PfhIc.webp) 名称随意,路径与`imagemagick`相似,为执行文件路径 参数就填写你刚才`imagemagick`设置存储`webp`的路径. 下面的隐藏窗口记得点,要不然截图之后会有窗口一闪而过...
 
 ### 其他设置
 
-保持之后勾选两个动作,之前有一个默认的记得取消 . ![](https://static.uzz5.com/imgs/2021/02/27/1S5Vp6lv.webp) ![然后设置截图之后行为](https://static.uzz5.com/imgs/2021/02/27/OE0QYpOL.webp "然后设置截图之后行为")
+保持之后勾选两个动作,之前有一个默认的记得取消 . ![](https://static.uzz5.com/i/2021/02/27/1S5Vp6lv.webp) ![然后设置截图之后行为](https://static.uzz5.com/i/2021/02/27/OE0QYpOL.webp "然后设置截图之后行为")
 
 ## 图片对比
 
-![原图](https://static.uzz5.com/imgs/2021/02/27/EWDlTxOR.jpg "原图") ![属性](https://static.uzz5.com/imgs/2021/02/27/AL3X8jKw.webp "属性")
+![原图](https://static.uzz5.com/i/2021/02/27/EWDlTxOR.jpg "原图") ![属性](https://static.uzz5.com/i/2021/02/27/AL3X8jKw.webp "属性")
 
 ### 压缩之后
 
-![图片](https://static.uzz5.com/imgs/2021/02/27/DvDeY4fY.webp "图片") ![属性](https://static.uzz5.com/imgs/2021/02/27/S58dL9rW.webp "属性")
+![图片](https://static.uzz5.com/i/2021/02/27/DvDeY4fY.webp "图片") ![属性](https://static.uzz5.com/i/2021/02/27/S58dL9rW.webp "属性")
 
 ## 其他
 

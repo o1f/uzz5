@@ -7,7 +7,7 @@ tags:
   - 图床
   - 开源
   - Github
-thumbnail: https://static.uzz5.com/imgs/2021/04/22/ibGDZUxU.webp
+thumbnail: https://static.uzz5.com/i/2021/04/22/ibGDZUxU.webp
 abbrlink: v5za
 ---
 
@@ -19,8 +19,8 @@ abbrlink: v5za
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/04/22/btlVQobq.webp)
-![](https://static.uzz5.com/imgs/2021/04/22/ycZWnXVo.webp)
+![](https://static.uzz5.com/i/2021/04/22/btlVQobq.webp)
+![](https://static.uzz5.com/i/2021/04/22/ycZWnXVo.webp)
 
 ## 特点
 

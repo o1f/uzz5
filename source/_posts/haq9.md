@@ -12,7 +12,7 @@ tags:
   - 分享
   - 开源
 id: '278'
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/10/5lYROgMu.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/10/5lYROgMu.webp'
 abbrlink: haq9
 date: 2021-03-10 18:46:53
 ---
@@ -30,4 +30,4 @@ Morecho 主题基于 Bootstrap 框架制作，页面特点为双层三栏，默�
 
 ## 预览
 
-演示Demo: [https://mosarin.tech/](https://mosarin.tech/) ![](https://static.uzz5.com/imgs/2021/03/10/CvjQlW83.webp) ![](https://static.uzz5.com/imgs/2021/03/10/SeDLLojg.webp)
+演示Demo: [https://mosarin.tech/](https://mosarin.tech/) ![](https://static.uzz5.com/i/2021/03/10/CvjQlW83.webp) ![](https://static.uzz5.com/i/2021/03/10/SeDLLojg.webp)

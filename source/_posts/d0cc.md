@@ -8,7 +8,7 @@ tags:
   - 经验
   - 图床
 abbrlink: d0cc
-thumbnail: https://static.uzz5.com/imgs/2021/04/10/PemiWXMj.webp
+thumbnail: https://static.uzz5.com/i/2021/04/10/PemiWXMj.webp
 ---
 
 之前分享的 [使用 Sharex 嫖百度开发者中心做图床](https://www.uzz5.com/j625.html) 因为改版升级已经失效了,水贴用的图床没得了.
@@ -33,7 +33,7 @@ thumbnail: https://static.uzz5.com/imgs/2021/04/10/PemiWXMj.webp
 }
 ```
 
-![直接复制,自定义导入即可](https://static.uzz5.com/imgs/2021/04/10/dLbtfmZl.webp)
+![直接复制,自定义导入即可](https://static.uzz5.com/i/2021/04/10/dLbtfmZl.webp)
 
 ## 测试
 

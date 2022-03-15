@@ -5,7 +5,7 @@ categories:
 tags:
   - 插件
 id: '13'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/XYQw4SrD.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/XYQw4SrD.webp'
 abbrlink: jqfn
 date: 2020-12-13 00:13:14
 ---
@@ -15,7 +15,7 @@ date: 2020-12-13 00:13:14
 
 开源项目： [https://github.com/the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) 
 
-相对于插件,我更推荐这个开源的油猴脚本,功能更强大. ![](https://static.uzz5.com/imgs/2021/02/28/15FUsnKj.webp) ![](https://static.uzz5.com/imgs/2021/02/28/EbRn4ZMN.webp)
+相对于插件,我更推荐这个开源的油猴脚本,功能更强大. ![](https://static.uzz5.com/i/2021/02/28/15FUsnKj.webp) ![](https://static.uzz5.com/i/2021/02/28/EbRn4ZMN.webp)
 
 # 以下为原文,仅供参考
 
@@ -35,7 +35,7 @@ Microsoft Edge 扩展商店:[https://bit.ly/32HsQvl](https://bit.ly/32HsQvl)
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/PD2mBXg3.webp) ![](https://static.uzz5.com/imgs/2021/02/28/N2chfIEw.webp)
+![](https://static.uzz5.com/i/2021/02/28/PD2mBXg3.webp) ![](https://static.uzz5.com/i/2021/02/28/N2chfIEw.webp)
 
 # 引用
 

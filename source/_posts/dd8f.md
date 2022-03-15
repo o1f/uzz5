@@ -8,7 +8,7 @@ tags:
   - 主题
   - 开源
 id: '50'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/oROrlJo5.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/oROrlJo5.webp'
 abbrlink: 'dd8f'
 date: 2021-02-07 00:55:44
 ---
@@ -40,7 +40,7 @@ Demo演示: [https://one.ijkxs.com/](https://one.ijkxs.com/)
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/3boLBbkE.webp) ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/j31j5wmh.webp "请输入图片描述") ![](https://static.uzz5.com/imgs/2021/02/28/oKuiIMaW.webp) ![](https://static.uzz5.com/imgs/2021/02/28/uVb6NzAU.webp) ![](https://static.uzz5.com/imgs/2021/02/28/Mv355EXH.webp) ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/DLIiopBY.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/tuJUf7He.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/G1QV19OE.webp "请输入图片描述") Demo演示: [https://one.ijkxs.com/](https://one.ijkxs.com/)
+![](https://static.uzz5.com/i/2021/02/28/3boLBbkE.webp) ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/j31j5wmh.webp "请输入图片描述") ![](https://static.uzz5.com/i/2021/02/28/oKuiIMaW.webp) ![](https://static.uzz5.com/i/2021/02/28/uVb6NzAU.webp) ![](https://static.uzz5.com/i/2021/02/28/Mv355EXH.webp) ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/DLIiopBY.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/tuJUf7He.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/G1QV19OE.webp "请输入图片描述") Demo演示: [https://one.ijkxs.com/](https://one.ijkxs.com/)
 
 ## 其他
 

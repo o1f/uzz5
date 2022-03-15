@@ -8,7 +8,7 @@ tags:
   - 白嫖
   - 经验
 id: '100'
-thumbnail: https://static.uzz5.com/imgs/2021/03/02/tPFeJTeY.webp
+thumbnail: https://static.uzz5.com/i/2021/03/02/tPFeJTeY.webp
 abbrlink: k6io
 ---
 
@@ -19,15 +19,15 @@ abbrlink: k6io
 
 *   注册登录 (可使用 Google 或者 Github 快速登录)
 
-登录之后 ![](https://static.uzz5.com/imgs/2021/03/02/1G2l2aUn.webp) 
+登录之后 ![](https://static.uzz5.com/i/2021/03/02/1G2l2aUn.webp) 
 
-推荐使用 2 交互方式创建, 代码真的不懂呀.. ![](https://static.uzz5.com/imgs/2021/03/02/fAbYFswq.webp) ![](https://static.uzz5.com/imgs/2021/03/02/z8P0Q3FW.webp) 我是直接配置好测试规格,填写博客域名直接跑的.
+推荐使用 2 交互方式创建, 代码真的不懂呀.. ![](https://static.uzz5.com/i/2021/03/02/fAbYFswq.webp) ![](https://static.uzz5.com/i/2021/03/02/z8P0Q3FW.webp) 我是直接配置好测试规格,填写博客域名直接跑的.
 
 # 预览
 
 下面是我放在 PR-M 1C1G 上的采集博客,使用 `wordpress` , 使用 `redis` 优化 , 使用 `Cloudflare` 进行加速. 
 
-![](https://static.uzz5.com/imgs/2021/03/02/QWvvEqij.webp)
+![](https://static.uzz5.com/i/2021/03/02/QWvvEqij.webp)
 
 # 其他
 

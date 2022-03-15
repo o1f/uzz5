@@ -6,7 +6,7 @@ categories:
 tags:
   - 修改版
   - 工具
-thumbnail: https://static.uzz5.com/imgs/2021/03/01/NvfgSjmE.webp
+thumbnail: https://static.uzz5.com/i/2021/03/01/NvfgSjmE.webp
 abbrlink: xkav
 --- 
 
@@ -15,15 +15,15 @@ abbrlink: xkav
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/04/18/WRoReUmQ.webp)
+![](https://static.uzz5.com/i/2021/04/18/WRoReUmQ.webp)
 
 # 使用说明
 
-下载压缩包之后,全部解压出来 ![](https://static.uzz5.com/imgs/2021/03/01/D3GfR6jL.webp) 
+下载压缩包之后,全部解压出来 ![](https://static.uzz5.com/i/2021/03/01/D3GfR6jL.webp) 
 
 选好路径一路`next`即可 我这边默认为英文,设置更改语言. 
 
-![](https://static.uzz5.com/imgs/2021/04/26/oHQuXhdJ.webp)
+![](https://static.uzz5.com/i/2021/04/26/oHQuXhdJ.webp)
 
 # 下载地址
 

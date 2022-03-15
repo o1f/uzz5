@@ -10,7 +10,7 @@ tags:
   - 免费
   - 分享
   - 开源
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/12/RZm4ylNv.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/12/RZm4ylNv.webp'
 abbrlink: jqfr
 date: 2021-03-12 23:31:43
 ---
@@ -42,7 +42,7 @@ date: 2021-03-12 23:31:43
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/03/12/lup0ilVI.webp) 
+![](https://static.uzz5.com/i/2021/03/12/lup0ilVI.webp) 
 
 更多请访问演示站: [https://xcx.jiangqie.com](https://xcx.jiangqie.com)
 

@@ -8,7 +8,7 @@ tags:
   - 图床
   - 工具
   - 开源
-thumbnail: https://static.uzz5.com/imgs/2021/03/10/q8ANFx9Y.webp
+thumbnail: https://static.uzz5.com/i/2021/03/10/q8ANFx9Y.webp
 abbrlink: v1xv
 ---
 
@@ -39,7 +39,7 @@ abbrlink: v1xv
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/03/10/UHsjLHd1.webp) ![](https://static.uzz5.com/imgs/2021/03/10/PwBNV9YY.webp) ![](https://static.uzz5.com/imgs/2021/03/10/zKOX208H.webp)
+![](https://static.uzz5.com/i/2021/03/10/UHsjLHd1.webp) ![](https://static.uzz5.com/i/2021/03/10/PwBNV9YY.webp) ![](https://static.uzz5.com/i/2021/03/10/zKOX208H.webp)
 
 ## 部署
 
@@ -79,7 +79,7 @@ git clone https://github.com.cnpmjs.org/xiebruce/PicUploader.git .
 
 ### 配置
 
-接着访问网址即可,我第一次部署的时候有报错,修改文件权限即可 ![](https://static.uzz5.com/imgs/2021/03/10/8sOzo3PH.webp) 配置内容较多,但都直观简洁,容易配置,不懂可以留言,我就不写了.
+接着访问网址即可,我第一次部署的时候有报错,修改文件权限即可 ![](https://static.uzz5.com/i/2021/03/10/8sOzo3PH.webp) 配置内容较多,但都直观简洁,容易配置,不懂可以留言,我就不写了.
 
 ## Docker 
 

@@ -7,7 +7,7 @@ tags:
   - 图床
   - 开源
 id: '48'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/0I3nJyHV.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/0I3nJyHV.webp'
 abbrlink: 3lrw
 date: 2021-01-28 01:27:10
 ---
@@ -17,7 +17,7 @@ date: 2021-01-28 01:27:10
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/iJgPpnGu.webp)
+![](https://static.uzz5.com/i/2021/02/28/iJgPpnGu.webp)
 
 # 其他
 
@@ -35,7 +35,7 @@ date: 2021-01-28 01:27:10
 }
 ```
 
-![](https://static.uzz5.com/imgs/2021/02/28/ZFwiIYkS.webp)
+![](https://static.uzz5.com/i/2021/02/28/ZFwiIYkS.webp)
 
 # 其他
 

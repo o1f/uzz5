@@ -9,7 +9,7 @@ tags:
   - 开源
   - 插件
 id: '88'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/vd6OIoF1.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/vd6OIoF1.webp'
 abbrlink: kw4t
 date: 2021-02-24 19:24:24
 ---
@@ -29,7 +29,7 @@ WP中国本土化社区（WP-China.org）出品，旨在将你的WordPress一键
 
 # 插件截图
 
-![](https://static.uzz5.com/imgs/2021/02/28/gdwfZLc8.webp)
+![](https://static.uzz5.com/i/2021/02/28/gdwfZLc8.webp)
 
 ## 主要特性
 

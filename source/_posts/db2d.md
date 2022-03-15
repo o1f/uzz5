@@ -8,7 +8,7 @@ tags:
   - 主题
   - 开源
 id: '58'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/hoUk0fsB.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/hoUk0fsB.webp'
 abbrlink: db2d
 date: 2021-02-17 00:57:00
 ---
@@ -24,4 +24,4 @@ date: 2021-02-17 00:57:00
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/AGe47dZ1.webp) ![](https://static.uzz5.com/imgs/2021/02/28/h8QPHVRF.webp) ![](https://static.uzz5.com/imgs/2021/02/28/CDpLdmH7.webp)
+![](https://static.uzz5.com/i/2021/02/28/AGe47dZ1.webp) ![](https://static.uzz5.com/i/2021/02/28/h8QPHVRF.webp) ![](https://static.uzz5.com/i/2021/02/28/CDpLdmH7.webp)

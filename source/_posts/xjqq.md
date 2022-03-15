@@ -7,7 +7,7 @@ tags:
   - Github
   - Linux
 id: '5'
-thumbnail: https://static.uzz5.com/imgs/2021/02/27/RRsAYTrZ.webp
+thumbnail: https://static.uzz5.com/i/2021/02/27/RRsAYTrZ.webp
 abbrlink: xjqq
 ---
 
@@ -45,7 +45,7 @@ wget --no-check-certificate -O AutoReinstall.sh https://git.io/AutoReinstall.sh 
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/02/27/kV0wqJGW.webp)
+![](https://static.uzz5.com/i/2021/02/27/kV0wqJGW.webp)
 
 ## 其他
 

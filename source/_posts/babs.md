@@ -5,7 +5,7 @@ categories:
 tags:
   - Blog
 id: '30'
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/01/9IXPyauy.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/01/9IXPyauy.webp'
 abbrlink: babs
 date: 2021-01-03 01:00:06
 ---
@@ -13,7 +13,7 @@ date: 2021-01-03 01:00:06
 
 # 示例
 
-https://static.uzz5.com/imgs/2021/03/01/ignK6Dm6.mp4
+https://static.uzz5.com/i/2021/03/01/ignK6Dm6.mp4
 
 # 教程
 

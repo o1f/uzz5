@@ -6,7 +6,7 @@ tags:
   - 开源
   - 网盘
 id: '32'
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/01/TNRk2BAK.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/01/TNRk2BAK.webp'
 abbrlink: azzx
 date: 2021-01-26 01:14:44
 ---
@@ -22,7 +22,7 @@ date: 2021-01-26 01:14:44
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/03/01/PcC82Nu8.webp) ![](https://static.uzz5.com/imgs/2021/03/01/QIuUOBL1.webp) ![](https://static.uzz5.com/imgs/2021/03/01/cGhTqXRX.webp)
+![](https://static.uzz5.com/i/2021/03/01/PcC82Nu8.webp) ![](https://static.uzz5.com/i/2021/03/01/QIuUOBL1.webp) ![](https://static.uzz5.com/i/2021/03/01/cGhTqXRX.webp)
 
 # 配置环境
 
@@ -35,11 +35,11 @@ date: 2021-01-26 01:14:44
 
 ## Cookie获取
 
-F12 -> Network -> 刷新一下 找到如图所示的cookie ![](https://static.uzz5.com/imgs/2021/03/01/aPHlUEpB.webp)
+F12 -> Network -> 刷新一下 找到如图所示的cookie ![](https://static.uzz5.com/i/2021/03/01/aPHlUEpB.webp)
 
 ## 项目ID(projectId)获取
 
-先创建一个项目,然后进入创建的项目 ![](https://static.uzz5.com/imgs/2021/03/01/CzKYXsBk.webp) ![](https://static.uzz5.com/imgs/2021/03/01/aNh69q31.webp)
+先创建一个项目,然后进入创建的项目 ![](https://static.uzz5.com/i/2021/03/01/CzKYXsBk.webp) ![](https://static.uzz5.com/i/2021/03/01/aNh69q31.webp)
 
 ## Docker
 
@@ -100,4 +100,4 @@ location /pan {
 
 # 更多
 
-问题或建议请移步项目地址反馈 [https://github.com/FlxSNX/TeambitionShare](https://github.com/FlxSNX/TeambitionShare) 记得star! ![请输入图片描述](https://static.uzz5.com/imgs/2021/03/01/Zp9ru19H.webp "请输入图片描述")
+问题或建议请移步项目地址反馈 [https://github.com/FlxSNX/TeambitionShare](https://github.com/FlxSNX/TeambitionShare) 记得star! ![请输入图片描述](https://static.uzz5.com/i/2021/03/01/Zp9ru19H.webp "请输入图片描述")

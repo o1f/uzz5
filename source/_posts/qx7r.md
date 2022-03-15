@@ -7,7 +7,7 @@ tags:
   - Coudflare
   - Github
 id: '23'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/FcWzIFuL.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/FcWzIFuL.webp'
 abbrlink: qx7r
 date: 2020-12-23 23:42:03
 ---
@@ -42,7 +42,7 @@ Demo演示: [https://blog.gezhong.vip/](https://blog.gezhong.vip/)
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/amkrfTV7.webp ) ![](https://static.uzz5.com/imgs/2021/02/28/ChnLGn5C.webp )
+![](https://static.uzz5.com/i/2021/02/28/amkrfTV7.webp ) ![](https://static.uzz5.com/i/2021/02/28/ChnLGn5C.webp )
 
 # 参考
 

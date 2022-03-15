@@ -7,7 +7,7 @@ tags:
   - Github
   - 主题
 id: '21'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/tshozJXh.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/tshozJXh.webp'
 abbrlink: zcn2
 date: 2020-12-19 19:48:36
 ---
@@ -19,4 +19,4 @@ date: 2020-12-19 19:48:36
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/StBOuney.webp) ![](https://static.uzz5.com/imgs/2021/02/28/eSTWqdCl.webp) ![](https://static.uzz5.com/imgs/2021/02/28/sL7csP71.webp)
+![](https://static.uzz5.com/i/2021/02/28/StBOuney.webp) ![](https://static.uzz5.com/i/2021/02/28/eSTWqdCl.webp) ![](https://static.uzz5.com/i/2021/02/28/sL7csP71.webp)

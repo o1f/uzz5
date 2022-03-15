@@ -8,7 +8,7 @@ tags:
   - 图片
   - 工具
 id: '283'
-thumbnail: https://static.uzz5.com/imgs/2021/03/11/Ppr0gmGP.webp
+thumbnail: https://static.uzz5.com/i/2021/03/11/Ppr0gmGP.webp
 abbrlink: ddll
 ---
 
@@ -19,15 +19,15 @@ abbrlink: ddll
 
 > 可以免费抠图,但下载分辨率有限制,得加钱
 
-![](https://static.uzz5.com/imgs/2021/03/11/sapUh89J.webp) 刚刚在群里看到有人问有没有人会抠图,就想到了这个网站,之前制作 `Steam` 艺术展柜的时候用到过,就推荐给大家. 其乐社区原帖: [https://keylol.com/t669854-1-1](https://keylol.com/t669854-1-1)
+![](https://static.uzz5.com/i/2021/03/11/sapUh89J.webp) 刚刚在群里看到有人问有没有人会抠图,就想到了这个网站,之前制作 `Steam` 艺术展柜的时候用到过,就推荐给大家. 其乐社区原帖: [https://keylol.com/t669854-1-1](https://keylol.com/t669854-1-1)
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/03/11/571hfodh.webp) 
+![](https://static.uzz5.com/i/2021/03/11/571hfodh.webp) 
 
-还可以简单编辑背景 ![](https://static.uzz5.com/imgs/2021/03/11/elfhHTDP.webp) 
+还可以简单编辑背景 ![](https://static.uzz5.com/i/2021/03/11/elfhHTDP.webp) 
 
-也可以导出配合在线编辑工具: [https://www.uupoop.com/#/](https://www.uupoop.com/#/) ![](https://static.uzz5.com/imgs/2021/03/11/HOuSkkiu.webp) 
+也可以导出配合在线编辑工具: [https://www.uupoop.com/#/](https://www.uupoop.com/#/) ![](https://static.uzz5.com/i/2021/03/11/HOuSkkiu.webp) 
 
 其实免费版对于普通用户来说以及够用了,对于设计师来说: `PS` 都不会换个班上吧!
 

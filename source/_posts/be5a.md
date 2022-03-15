@@ -8,7 +8,7 @@ tags:
   - 开源
   - Githun
   - Wordpress
-thumbnail: 'https://static.uzz5.com/imgs/2021/04/17/BU1CJpcA.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/04/17/BU1CJpcA.webp'
 abbrlink: be5a
 date: 2021-04-17 23:19:26
 ---
@@ -21,9 +21,9 @@ date: 2021-04-17 23:19:26
 
 ## 预览
 
-![首页](https://static.uzz5.com/imgs/2021/04/17/31KUdGgC.webp)
-![友联](https://static.uzz5.com/imgs/2021/04/17/gCq4G3ey.webp)
-![文章及高亮演示](https://static.uzz5.com/imgs/2021/04/17/OYde0TLt.webp)
+![首页](https://static.uzz5.com/i/2021/04/17/31KUdGgC.webp)
+![友联](https://static.uzz5.com/i/2021/04/17/gCq4G3ey.webp)
+![文章及高亮演示](https://static.uzz5.com/i/2021/04/17/OYde0TLt.webp)
 
 > 更多请移步 [演示demo](https://2heng.xin/theme-sakura/) 查看
 

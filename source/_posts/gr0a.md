@@ -9,7 +9,7 @@ tags:
   - 主题
   - 开源
 id: '22'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/xWMNbpji.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/xWMNbpji.webp'
 abbrlink: gr0a
 ---
 
@@ -35,7 +35,7 @@ Demo演示: [https://themes.gohugo.io/theme/hugo-eureka/](https://themes.gohugo.
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/04/05/YOha24ci.webp)
+![](https://static.uzz5.com/i/2021/04/05/YOha24ci.webp)
 
 Demo演示: [https://themes.gohugo.io/theme/hugo-eureka/](https://themes.gohugo.io/theme/hugo-eureka/) 
 

@@ -7,7 +7,7 @@ tags:
   - 主题
   - 开源
 id: '45'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/KIDCDahF.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/KIDCDahF.webp'
 abbrlink: 'eap0'
 date: 2021-01-26 00:54:36
 ---
@@ -42,7 +42,7 @@ Hexo 版本 : [https://github.com/solstice23/hexo-theme-argon](https://github.co
 
 ## Demo
 
-主题效果预览 [solstice23.top](https://solstice23.top/) [argon-demo.solstice23.top](http://argon-demo.solstice23.top/) ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/YUL8wZwH.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/3oaAaji9.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/apcPFxeN.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/xNBMj3m3.webp "请输入图片描述")
+主题效果预览 [solstice23.top](https://solstice23.top/) [argon-demo.solstice23.top](http://argon-demo.solstice23.top/) ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/YUL8wZwH.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/3oaAaji9.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/apcPFxeN.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/xNBMj3m3.webp "请输入图片描述")
 
 # 安装
 

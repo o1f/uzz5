@@ -8,7 +8,7 @@ tags:
   - 主题
   - 开源
 id: '11'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/27/6aGvzMXL.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/27/6aGvzMXL.webp'
 abbrlink: bkhz
 date: 2020-12-13 00:59:18
 ---
@@ -20,11 +20,11 @@ BlogGem 是一款简单易用的博客主题，它的设计和开发主要是为
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/27/InHNcd4f.webp) 
+![](https://static.uzz5.com/i/2021/02/27/InHNcd4f.webp) 
 
-![](https://static.uzz5.com/imgs/2021/02/27/5IKkJd8e.webp)
+![](https://static.uzz5.com/i/2021/02/27/5IKkJd8e.webp)
 
-![](https://static.uzz5.com/imgs/2021/02/27/DN9hGKXg.webp)
+![](https://static.uzz5.com/i/2021/02/27/DN9hGKXg.webp)
 
 # 下载地址
 

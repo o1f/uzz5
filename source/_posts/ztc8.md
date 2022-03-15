@@ -10,7 +10,7 @@ tags:
   - 开发
   - 阿里云
 id: '265'
-thumbnail: https://static.uzz5.com/imgs/2021/03/10/EYAFYGDB.webp
+thumbnail: https://static.uzz5.com/i/2021/03/10/EYAFYGDB.webp
 abbrlink: ztc8
 --- 
 
@@ -41,11 +41,11 @@ ustc
 
 ## 阿里云链接
 
-登陆地址: ([https://cr.console.aliyun.com](https://cr.console.aliyun.com)) ![](https://static.uzz5.com/imgs/2021/03/07/VMSS06ek.webp) 创建一个镜像仓库 ![](https://static.uzz5.com/imgs/2021/03/07/jjAoZXDd.webp) 选择本地仓库即可 ![](https://static.uzz5.com/imgs/2021/03/07/vMjdKztr.webp) 获取加速地址
+登陆地址: ([https://cr.console.aliyun.com](https://cr.console.aliyun.com)) ![](https://static.uzz5.com/i/2021/03/07/VMSS06ek.webp) 创建一个镜像仓库 ![](https://static.uzz5.com/i/2021/03/07/jjAoZXDd.webp) 选择本地仓库即可 ![](https://static.uzz5.com/i/2021/03/07/vMjdKztr.webp) 获取加速地址
 
 ## 宝塔 Docker
 
-![](https://static.uzz5.com/imgs/2021/03/07/uy5dME6p.webp)
+![](https://static.uzz5.com/i/2021/03/07/uy5dME6p.webp)
 
 ## SSH 终端
 
@@ -62,7 +62,7 @@ sudo systemctl daemon-reload //重新加载 
 sudo systemctl restart docker //重启Docker
 ```
 
-![](https://static.uzz5.com/imgs/2021/03/07/9HcPn8zn.webp) 也可以直接使用 Vim 编辑 /etc/docker/daemon.json
+![](https://static.uzz5.com/i/2021/03/07/9HcPn8zn.webp) 也可以直接使用 Vim 编辑 /etc/docker/daemon.json
 
 ```shell
 vim /etc/docker/daemon.json
@@ -70,7 +70,7 @@ vim /etc/docker/daemon.json
 
 ## Mac 与 Windows
 
-可查看阿里云镜像服务操作文档 ![](https://static.uzz5.com/imgs/2021/03/07/HGoiTUv8.webp)
+可查看阿里云镜像服务操作文档 ![](https://static.uzz5.com/i/2021/03/07/HGoiTUv8.webp)
 
 ## 其他
 

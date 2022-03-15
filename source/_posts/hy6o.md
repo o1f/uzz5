@@ -7,13 +7,13 @@ tags:
   - 主题
   - 开源
 id: '27'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/1j6T3q4q.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/1j6T3q4q.webp'
 abbrlink: hy6o
 date: 2020-12-25 00:42:24
 ---
 
 
-![](https://static.uzz5.com/imgs/2021/02/28/0dFUxEPB.webp) 
+![](https://static.uzz5.com/i/2021/02/28/0dFUxEPB.webp) 
 
 一款基于`WordPress`开发的高颜值的自适应主题，支持白天与黑夜模式。 之前使用`Wordpress`使用过此主题,优化特别好,加载速度很快.
 
@@ -49,7 +49,7 @@ date: 2020-12-25 00:42:24
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/snpSOUcN.webp) ![](https://static.uzz5.com/imgs/2021/02/28/ujLECztW.webp)
+![](https://static.uzz5.com/i/2021/02/28/snpSOUcN.webp) ![](https://static.uzz5.com/i/2021/02/28/ujLECztW.webp)
 
 # 下载安装
 

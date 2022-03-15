@@ -7,7 +7,7 @@ tags:
   - Github
   - 图床
   - 图片
-thumbnail: https://static.uzz5.com/imgs/2021/03/14/ru5dsVgT.webp
+thumbnail: https://static.uzz5.com/i/2021/03/14/ru5dsVgT.webp
 abbrlink: dyh9
 ---
 
@@ -16,8 +16,8 @@ abbrlink: dyh9
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/03/14/M7adJLRV.webp)
+![](https://static.uzz5.com/i/2021/03/14/M7adJLRV.webp)
 
 ## 其他
 
-直接下载Html文件上传到服务器即可,也可以部署到 `Cloudflare pages` ,使用的是 [https://image.kieng.cn](https://image.kieng.cn) 的接口,稳定性待观察,推荐直接使用 `sharex` + `API` 使用. ![](https://static.uzz5.com/imgs/2021/03/14/hCgdUOh5.webp) 推荐阅读: [https://image.kieng.cn/about.html](https://image.kieng.cn/about.html)
+直接下载Html文件上传到服务器即可,也可以部署到 `Cloudflare pages` ,使用的是 [https://image.kieng.cn](https://image.kieng.cn) 的接口,稳定性待观察,推荐直接使用 `sharex` + `API` 使用. ![](https://static.uzz5.com/i/2021/03/14/hCgdUOh5.webp) 推荐阅读: [https://image.kieng.cn/about.html](https://image.kieng.cn/about.html)

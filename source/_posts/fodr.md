@@ -8,7 +8,7 @@ tags:
   - 免费
   - 开源
 id: '43'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/b5Wo0ejy.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/b5Wo0ejy.webp'
 abbrlink: fodr
 date: 2021-01-26 00:52:33
 ---
@@ -20,7 +20,7 @@ date: 2021-01-26 00:52:33
 
 # 预览
 
-![Tab内容](https://static.uzz5.com/imgs/2021/02/28/GS96Twn1.webp "Tab内容") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/qqrDouzt.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/MhJ8XMqN.webp "请输入图片描述")
+![Tab内容](https://static.uzz5.com/i/2021/02/28/GS96Twn1.webp "Tab内容") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/qqrDouzt.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/MhJ8XMqN.webp "请输入图片描述")
 
 # 其他
 

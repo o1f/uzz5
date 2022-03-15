@@ -7,12 +7,12 @@ tags:
   - 图片
   - 工具
 id: '36'
-thumbnail: https://static.uzz5.com/imgs/2021/02/28/aYGUCT6a.webp
+thumbnail: https://static.uzz5.com/i/2021/02/28/aYGUCT6a.webp
 abbrlink: zu8h
 ---
 
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/jtxXhpsb.webp "请输入图片描述")
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/jtxXhpsb.webp "请输入图片描述")
 
 # 项目地址
 
@@ -22,7 +22,7 @@ abbrlink: zu8h
 
 # 预览
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/HBCAitmp.webp "请输入图片描述")
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/HBCAitmp.webp "请输入图片描述")
 
 # 功能特点
 

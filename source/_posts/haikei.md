@@ -7,7 +7,7 @@ tags:
   - 写作
   - 图片
   - 工具
-thumbnail: https://static.uzz5.com/imgs/2021/05/22/mzPCI1Md.webp
+thumbnail: https://static.uzz5.com/i/2021/05/22/mzPCI1Md.webp
 abbrlink: haikei
 ---
 
@@ -15,7 +15,7 @@ abbrlink: haikei
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/05/22/WDf3BgoC.webp)
+![](https://static.uzz5.com/i/2021/05/22/WDf3BgoC.webp)
 
 ## 特点
 

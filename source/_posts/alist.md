@@ -7,7 +7,7 @@ tags:
   - 开源
   - 网盘
 id: '99'
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/01/KItj9yFA.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/01/KItj9yFA.webp'
 abbrlink: alist
 date: 2021-03-01 19:19:21
 ---
@@ -27,7 +27,7 @@ date: 2021-03-01 19:19:21
 
 ## 预览
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/03/01/LUNB9q2H.webp)
+![请输入图片描述](https://static.uzz5.com/i/2021/03/01/LUNB9q2H.webp)
 
 ## 支持的功能
 

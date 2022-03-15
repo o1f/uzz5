@@ -10,7 +10,7 @@ tags:
   - 工具
   - 应用
   - 软件
-thumbnail: https://static.uzz5.com/imgs/2021/03/14/i7YsDqrk.webp
+thumbnail: https://static.uzz5.com/i/2021/03/14/i7YsDqrk.webp
 abbrlink: hex7
 ---
 
@@ -35,7 +35,7 @@ abbrlink: hex7
 
 ## 预览
 
-![](https://static.uzz5.com/imgs/2021/03/14/vYvZbK8t.webp)
+![](https://static.uzz5.com/i/2021/03/14/vYvZbK8t.webp)
 
 ## 其他
 

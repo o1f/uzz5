@@ -7,7 +7,7 @@ tags:
   - 工具
   - 开发
   - 网站
-thumbnail: https://static.uzz5.com/imgs/2021/03/28/9PXU4Hof.webp
+thumbnail: https://static.uzz5.com/i/2021/03/28/9PXU4Hof.webp
 abbrlink: sgxw
 ---
 
@@ -20,7 +20,7 @@ abbrlink: sgxw
 
 ### 预览
 
-![](https://static.uzz5.com/imgs/2021/03/28/DM7Akdxa.webp) 移动端太拉胯,就不展示了
+![](https://static.uzz5.com/i/2021/03/28/DM7Akdxa.webp) 移动端太拉胯,就不展示了
 
 ## Gtmetrix
 
@@ -28,7 +28,7 @@ abbrlink: sgxw
 
 ### 预览
 
-![](https://static.uzz5.com/imgs/2021/03/28/CxBLjJpW.webp)
+![](https://static.uzz5.com/i/2021/03/28/CxBLjJpW.webp)
 
 ## Pingdom
 
@@ -36,7 +36,7 @@ abbrlink: sgxw
 
 ### 预览
 
-![](https://static.uzz5.com/imgs/2021/03/28/pQ6QKVaT.webp)
+![](https://static.uzz5.com/i/2021/03/28/pQ6QKVaT.webp)
 
 ## Webpagetest
 
@@ -44,4 +44,4 @@ abbrlink: sgxw
 
 ### 预览
 
-![](https://static.uzz5.com/imgs/2021/03/29/dC1I4aLF.webp) 推荐的这三款分析工具多数用于开发者优化代码之用,像我这种小白用户就是图个乐,还是直接推荐<17ce.com>吧. 其实优化再好不如线路好,国内云服务商们活动价格都很低了,各种新用户优惠,也有免费或者免费额度,比我我用的百度云加速,每天免费`10G` 国外这个首推还是腾讯云香港轻量,除了不抗揍,其他都好,也没人闲来无事攻击人玩的.
+![](https://static.uzz5.com/i/2021/03/29/dC1I4aLF.webp) 推荐的这三款分析工具多数用于开发者优化代码之用,像我这种小白用户就是图个乐,还是直接推荐<17ce.com>吧. 其实优化再好不如线路好,国内云服务商们活动价格都很低了,各种新用户优惠,也有免费或者免费额度,比我我用的百度云加速,每天免费`10G` 国外这个首推还是腾讯云香港轻量,除了不抗揍,其他都好,也没人闲来无事攻击人玩的.

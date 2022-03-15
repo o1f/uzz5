@@ -8,14 +8,14 @@ tags:
   - 开发
   - 白嫖
   - 经验
-thumbnail: https://static.uzz5.com/imgs/2021/02/28/AFREGn7H.webp
+thumbnail: https://static.uzz5.com/i/2021/02/28/AFREGn7H.webp
 abbrlink: be6f
 ---
 
 
 本文系转载,原文地址： [https://www.jingtaiboke.com/unicloud-upload-demo.html](https://www.jingtaiboke.com/unicloud-upload-demo.html) 问题，建议及反馈请前往原文留言讨论。 
 
-根据原文所介绍，dcloud 的用处可不仅仅是做图床文件外链那么简单了，希望各位开发者好好利用，而不是滥用。 本博客不推荐做长期文件储存来用的，数据不保证，无法有效备份。（还不如GitHub+jsd，可以定时任务进行备份，单文件20M对于图片以及静态资源够用了） 疑似开发者在原文中的回应 ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/j6X0J1VZ.webp "请输入图片描述") 
+根据原文所介绍，dcloud 的用处可不仅仅是做图床文件外链那么简单了，希望各位开发者好好利用，而不是滥用。 本博客不推荐做长期文件储存来用的，数据不保证，无法有效备份。（还不如GitHub+jsd，可以定时任务进行备份，单文件20M对于图片以及静态资源够用了） 疑似开发者在原文中的回应 ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/j6X0J1VZ.webp "请输入图片描述") 
 
 以下为原文：
 
@@ -45,7 +45,7 @@ Ctrl+O,选择源码文件夹
 
 ## 开始部署
 
-现在你的界面应该是这样的 ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/JxlxStmX.webp "请输入图片描述")
+现在你的界面应该是这样的 ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/JxlxStmX.webp "请输入图片描述")
 
 ## 创建云服务空间
 
@@ -68,11 +68,11 @@ Ctrl+O,选择源码文件夹
     > 这一步很重要,否则云函数不会执行
     
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/QqYS6YNy.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/U1q7bk4L.webp "请输入图片描述")
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/QqYS6YNy.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/U1q7bk4L.webp "请输入图片描述")
 
 ## 上传部署
 
-进入编辑器,选中左侧项目–\\> 点菜单`发行` –\\> 点`上传网站到服务器` 稍等片提示成功,竣工 ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/H09kPuSk.webp "请输入图片描述")
+进入编辑器,选中左侧项目–\\> 点菜单`发行` –\\> 点`上传网站到服务器` 稍等片提示成功,竣工 ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/H09kPuSk.webp "请输入图片描述")
 
 ## unicloud的实际应用
 
@@ -80,4 +80,4 @@ Ctrl+O,选择源码文件夹
 
 > 截图 –\\> Ctrl+V 直接插入到文章中 右键复制网页图片 –\\> Ctrl+V 也是支持的
 
-从此写静态博客又方便了不少 ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/32Yww6xs.webp "请输入图片描述")
+从此写静态博客又方便了不少 ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/32Yww6xs.webp "请输入图片描述")

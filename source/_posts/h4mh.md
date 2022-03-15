@@ -6,7 +6,7 @@ tags:
   - Github
   - 应用
   - 开源
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/kqr7LbG1.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/kqr7LbG1.webp'
 abbrlink: h4mh
 date: 2022-1-9 21:00:00
 ---
@@ -20,7 +20,7 @@ date: 2022-1-9 21:00:00
 
 # 预览
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/IiGbRTL1.webp "请输入图片描述") ![](https://static.uzz5.com/imgs/2021/02/28/1TzNMj0Z.webp)
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/IiGbRTL1.webp "请输入图片描述") ![](https://static.uzz5.com/i/2021/02/28/1TzNMj0Z.webp)
 
 # 版本
 
@@ -67,7 +67,7 @@ HEVC扩展安装地址:ms-windows-store://pdp/?productid=9n4wgh0z6vhq
 
 ### 快捷键
 
-![](https://static.uzz5.com/imgs/2021/04/05/EtMQFuWo.webp)
+![](https://static.uzz5.com/i/2021/04/05/EtMQFuWo.webp)
 
 ### 部分图片无法显示
 

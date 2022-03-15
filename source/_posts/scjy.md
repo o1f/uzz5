@@ -7,7 +7,7 @@ tags:
   - 主题
   - 开源
 id: '44'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/Iy7ZWLd4.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/Iy7ZWLd4.webp'
 abbrlink: scjy
 date: 2021-01-26 23:41:21
 ---
@@ -44,7 +44,7 @@ date: 2021-01-26 23:41:21
 
 # 预览
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/cAM9mVUZ.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/f4aQYtAb.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/a9v5ePgr.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/TlBbsHe3.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/hOKGew5j.webp "请输入图片描述")
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/cAM9mVUZ.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/f4aQYtAb.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/a9v5ePgr.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/TlBbsHe3.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/hOKGew5j.webp "请输入图片描述")
 
 ## 使用教程
 

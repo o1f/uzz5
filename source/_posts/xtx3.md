@@ -8,7 +8,7 @@ tags:
   - Typecho
   - 主题
 id: '20'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/BzGTN6Aj.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/BzGTN6Aj.webp'
 abbrlink: xtx3
 date: 2020-12-18 19:50:40
 ---
@@ -24,7 +24,7 @@ date: 2020-12-18 19:50:40
 
 # 预览
 
-![首页](https://static.uzz5.com/imgs/2021/02/28/s2EczLuV.webp "首页") ![文章页](https://static.uzz5.com/imgs/2021/02/28/QA6rhOzn.webp "文章页") ![归档](https://static.uzz5.com/imgs/2021/02/28/P0BbY3Cb.webp "归档") ![友联](https://static.uzz5.com/imgs/2021/02/28/nGchb1zu.webp "友联")
+![首页](https://static.uzz5.com/i/2021/02/28/s2EczLuV.webp "首页") ![文章页](https://static.uzz5.com/i/2021/02/28/QA6rhOzn.webp "文章页") ![归档](https://static.uzz5.com/i/2021/02/28/P0BbY3Cb.webp "归档") ![友联](https://static.uzz5.com/i/2021/02/28/nGchb1zu.webp "友联")
 
 # 其他
 

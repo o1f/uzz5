@@ -8,7 +8,7 @@ tags:
   - Github
   - hexo
   - 分享
-thumbnail: https://static.uzz5.com/imgs/2021/03/16/WyUpc0w9.webp
+thumbnail: https://static.uzz5.com/i/2021/03/16/WyUpc0w9.webp
 abbrlink: hhxo
 ---
 
@@ -42,7 +42,7 @@ Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://
 
 点击「Cotinue with GitHub」并使用 GitHub 账号授权登录。
 
-![注册 Vercel 账号](https://static.uzz5.com/imgs/2021/03/16/AP42V1oE.webp)
+![注册 Vercel 账号](https://static.uzz5.com/i/2021/03/16/AP42V1oE.webp)
 
 ### 从模板新建项目
 
@@ -52,13 +52,13 @@ Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://
 > 
 > 此应用将 Hexo 版本更新到了最新（5.3.0），避免了很多错误和问题的发生。
 
-点击 GitHub 标签，输入你导入后的仓库名称（可随意），输入完毕点击「Continue」。![导入至 GitHub 仓库](https://static.uzz5.com/imgs/2021/03/16/FrvgNz9w.webp)
+点击 GitHub 标签，输入你导入后的仓库名称（可随意），输入完毕点击「Continue」。![导入至 GitHub 仓库](https://static.uzz5.com/i/2021/03/16/FrvgNz9w.webp)
 
 可以看到 Vercel 已经自动识别出仓库是 Hexo 框架，点击「Deploy」。
 
 > Project Name 可以随意填写，但必须是唯一的。
 
-![部署博客](https://static.uzz5.com/imgs/2021/03/16/8iRxQP7X.webp)
+![部署博客](https://static.uzz5.com/i/2021/03/16/8iRxQP7X.webp)
 
 随后 Vercel 就会开始部署，稍等片刻。
 
@@ -76,11 +76,11 @@ Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://
 
 没有的话就阅读主题的 README 寻找答案，一般情况下都是有的。
 
-![Release](https://static.uzz5.com/imgs/2021/03/16/c4nU4Cdz.webp)
+![Release](https://static.uzz5.com/i/2021/03/16/c4nU4Cdz.webp)
 
 滑动到页面底部，下载文件。你可以选择 .zip 压缩版本或是 .tar.gz 压缩版本。（解压后文件都一样）
 
-![下载发行版](https://static.uzz5.com/imgs/2021/03/16/4uLA0a34.webp)
+![下载发行版](https://static.uzz5.com/i/2021/03/16/4uLA0a34.webp)
 
 解压下载下来的文件。
 
@@ -88,19 +88,19 @@ Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://
 
 点击 图片中箭头指的位置 ，进入 GitHub 仓库。
 
-![点击仓库名](https://static.uzz5.com/imgs/2021/03/16/t7Kxbkkm.webp)
+![点击仓库名](https://static.uzz5.com/i/2021/03/16/t7Kxbkkm.webp)
 
 点击文件区域的 `themes` 目录。
 
-![进入 themes 目录](https://static.uzz5.com/imgs/2021/03/16/OlHt26qv.webp)
+![进入 themes 目录](https://static.uzz5.com/i/2021/03/16/OlHt26qv.webp)
 
 点击 「Add File」、「Upload Files」上传文件。
 
-![上传文件](https://static.uzz5.com/imgs/2021/03/16/va9F23ih.webp)
+![上传文件](https://static.uzz5.com/i/2021/03/16/va9F23ih.webp)
 
-![拖拽文件](https://static.uzz5.com/imgs/2021/03/16/FShnmXAB.webp)
+![拖拽文件](https://static.uzz5.com/i/2021/03/16/FShnmXAB.webp)
 
-![提交更改](https://static.uzz5.com/imgs/2021/03/16/30gPrdSn.webp)
+![提交更改](https://static.uzz5.com/i/2021/03/16/30gPrdSn.webp)
 
 > 提交之后需要稍等一下。
 
@@ -133,7 +133,7 @@ Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://
 
 点击修改按钮修改文件：
 
-![修改文件](https://static.uzz5.com/imgs/2021/03/16/n6lGe1gF.webp)
+![修改文件](https://static.uzz5.com/i/2021/03/16/n6lGe1gF.webp)
 
 修改启用的主题为刚刚上传的主题：
 
@@ -160,7 +160,7 @@ Hexo 后端开源地址: [https://github.com/HexoPlusPlus/HexoPlusPlus](https://
 
 > 不要忘记遵守 JSON 语法格式！具体可以百度一下。
 
-![img](https://static.uzz5.com/imgs/2021/03/16/mShDLIUm.webp)
+![img](https://static.uzz5.com/i/2021/03/16/mShDLIUm.webp)
 
 等待 Vercel 自动部署完毕即可。
 

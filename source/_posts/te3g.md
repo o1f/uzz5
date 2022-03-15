@@ -12,7 +12,7 @@ tags:
   - 分享
   - 开源
 id: '246'
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/10/T2vbjrHM.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/10/T2vbjrHM.webp'
 abbrlink: te3g
 date: 2021-03-07 19:05:56
 ---
@@ -41,8 +41,8 @@ Kratos 是一款专注于用户阅读体验的响应式 WordPress 主题，整�
 
 ## 主题预览
 
-![](https://static.uzz5.com/imgs/2021/03/07/9wReBjSX.webp) ![](https://static.uzz5.com/imgs/2021/03/07/qPe8rmKA.webp)
+![](https://static.uzz5.com/i/2021/03/07/9wReBjSX.webp) ![](https://static.uzz5.com/i/2021/03/07/qPe8rmKA.webp)
 
 ## 讨论交流
 
-![](https://static.uzz5.com/imgs/2021/03/07/vhoQnZSt.webp)
+![](https://static.uzz5.com/i/2021/03/07/vhoQnZSt.webp)

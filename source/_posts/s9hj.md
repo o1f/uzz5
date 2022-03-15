@@ -5,7 +5,7 @@ categories:
 tags:
   - 工具
 id: '35'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/1lrvmFW3.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/1lrvmFW3.webp'
 abbrlink: 's9hj'
 date: 2021-01-18 23:40:08
 ---
@@ -15,7 +15,7 @@ date: 2021-01-18 23:40:08
 
 **不适用全体用户,请按需开启** 
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/9nMQPy7M.webp "请输入图片描述") 
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/9nMQPy7M.webp "请输入图片描述") 
 
 一、规则简介 
 基于 [MITRE ATT&CK™](https://attack.mitre.org/) & 恶意软件行为特征 编写而成，能够检测，阻止，拦截各类恶意软件的攻击载体和攻击途径，典型的如无文件攻击，漏洞攻击，加密勒索等。 
@@ -41,7 +41,7 @@ date: 2021-01-18 23:40:08
 4. 点击文字 
 5. 导入自定义规则 
 6. 导入自动处理规则（重要！） 
-7. [使用方法](https://static.uzz5.com/imgs/2021/02/28/HQiyhWQL.webp) 
+7. [使用方法](https://static.uzz5.com/i/2021/02/28/HQiyhWQL.webp) 
 
 下载地址 [https://jerry-0000.lanzous.com/b0w7loed](https://jerry-0000.lanzous.com/b0w7loed) 密码:4ksm 
 

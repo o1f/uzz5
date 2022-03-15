@@ -7,7 +7,7 @@ tags:
   - 开源
   - 软件
 id: '49'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/Ka5ZRIia.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/Ka5ZRIia.webp'
 abbrlink: hd1r
 date: 2021-01-29 00:43:50
 ---
@@ -44,7 +44,7 @@ Electron 版本由 [@hawtim](https://github.com/hawtim) 和 [@qier222](https:
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/1ovsl0K5.webp) ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/nbyYOoBJ.webp](https://static.uzz5.com/imgs/2021/02/28/ZxZzNJbz.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/nbyYOoBJ.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/Zl8xYo0n.webp](https://static.uzz5.com/imgs/2021/02/28/HGyh9tQW.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/Zl8xYo0n.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/4731w2vm.webp](https://static.uzz5.com/imgs/2021/02/28/uYGytA6s.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/4731w2vm.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/wdVQ7FLG.webp](https://static.uzz5.com/imgs/2021/02/28/lk2ENA8B.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/wdVQ7FLG.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/2LbGb3fj.webp](https://static.uzz5.com/imgs/2021/02/28/d7qpTM4n.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/2LbGb3fj.webp")
+![](https://static.uzz5.com/i/2021/02/28/1ovsl0K5.webp) ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/nbyYOoBJ.webp](https://static.uzz5.com/i/2021/02/28/ZxZzNJbz.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/nbyYOoBJ.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/Zl8xYo0n.webp](https://static.uzz5.com/i/2021/02/28/HGyh9tQW.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/Zl8xYo0n.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/4731w2vm.webp](https://static.uzz5.com/i/2021/02/28/uYGytA6s.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/4731w2vm.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/wdVQ7FLG.webp](https://static.uzz5.com/i/2021/02/28/lk2ENA8B.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/wdVQ7FLG.webp") ![https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/2LbGb3fj.webp](https://static.uzz5.com/i/2021/02/28/d7qpTM4n.webp "https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/29/2LbGb3fj.webp")
 
 # 其他
 

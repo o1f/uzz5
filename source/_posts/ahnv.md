@@ -8,13 +8,13 @@ tags:
   - 封面
   - 开源
 id: '39'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/aD0W0nrY.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/aD0W0nrY.webp'
 abbrlink: ahnv
 date: 2021-01-23 01:16:41
 ---
 
 
-![yXW3RWdP9N.jpg](https://static.uzz5.com/imgs/2021/02/28/dDaC7uB9.webp "yXW3RWdP9N.jpg")
+![yXW3RWdP9N.jpg](https://static.uzz5.com/i/2021/02/28/dDaC7uB9.webp "yXW3RWdP9N.jpg")
 
 # 开源地址
 
@@ -31,4 +31,4 @@ date: 2021-01-23 01:16:41
 
 # 预览
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/qoLolnpd.webp "请输入图片描述") 非常好看的一个开源简介图片生成项目，很适合拿来作为文章的封面或者内容。界面元素可自定义程度高，作者也很贴心地考虑到了各种导出场景和需求。
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/qoLolnpd.webp "请输入图片描述") 非常好看的一个开源简介图片生成项目，很适合拿来作为文章的封面或者内容。界面元素可自定义程度高，作者也很贴心地考虑到了各种导出场景和需求。

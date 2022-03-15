@@ -7,13 +7,13 @@ tags:
   - 工具
   - 开源
 id: '25'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/Y8FBcCBj.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/Y8FBcCBj.webp'
 abbrlink: o8kd
 date: 2020-12-24 23:45:42
 ---
 
 
-Maya是一款体积小巧、简单易用的快速启动工具。不要看体积小巧，它的功能还是非常多样化的，比如：多文件拖拽添加启动、快捷键呼出、自动多列显示、lnk文件解析等等。软件没有繁杂的功能，操作中也不会产生任何垃圾文件，绿色无污染，只专注于文件的快速启动，是用户提升Windows操作体验的好帮手。 ![](https://static.uzz5.com/imgs/2021/02/28/32K41FKK.webp)
+Maya是一款体积小巧、简单易用的快速启动工具。不要看体积小巧，它的功能还是非常多样化的，比如：多文件拖拽添加启动、快捷键呼出、自动多列显示、lnk文件解析等等。软件没有繁杂的功能，操作中也不会产生任何垃圾文件，绿色无污染，只专注于文件的快速启动，是用户提升Windows操作体验的好帮手。 ![](https://static.uzz5.com/i/2021/02/28/32K41FKK.webp)
 
 # 开源地址
 
@@ -43,7 +43,7 @@ Maya是一款体积小巧、简单易用的快速启动工具。不要看体积�
 
 > 最新版本界面可能与截图有出入。
 
-![DvYwd7B4RP.png](https://static.uzz5.com/imgs/2021/02/28/gvsI9ZT1.webp "DvYwd7B4RP.png") ![E53YW2Td2W.png](https://static.uzz5.com/imgs/2021/02/28/G1fZsFiY.webp "E53YW2Td2W.png") ![kKHeOmNfzJ.png](https://static.uzz5.com/imgs/2021/02/28/ox9Lwr0r.webp "kKHeOmNfzJ.png") ![bvlCwZknpg.png](https://static.uzz5.com/imgs/2021/02/28/FG3RLxN0.webp "bvlCwZknpg.png") ![TxuHby78Hi.png](https://static.uzz5.com/imgs/2021/02/28/vidd11Fj.webp "TxuHby78Hi.png") ![arMsU5PVYt.png](https://static.uzz5.com/imgs/2021/02/28/iERbRKVd.webp "arMsU5PVYt.png") ![4ZNvojKWFg.png](https://static.uzz5.com/imgs/2021/02/28/z1IpIN7c.webp "4ZNvojKWFg.png") ![cHB4ST9FSx.png](https://static.uzz5.com/imgs/2021/02/28/G0UXSf0u.webp "cHB4ST9FSx.png")
+![DvYwd7B4RP.png](https://static.uzz5.com/i/2021/02/28/gvsI9ZT1.webp "DvYwd7B4RP.png") ![E53YW2Td2W.png](https://static.uzz5.com/i/2021/02/28/G1fZsFiY.webp "E53YW2Td2W.png") ![kKHeOmNfzJ.png](https://static.uzz5.com/i/2021/02/28/ox9Lwr0r.webp "kKHeOmNfzJ.png") ![bvlCwZknpg.png](https://static.uzz5.com/i/2021/02/28/FG3RLxN0.webp "bvlCwZknpg.png") ![TxuHby78Hi.png](https://static.uzz5.com/i/2021/02/28/vidd11Fj.webp "TxuHby78Hi.png") ![arMsU5PVYt.png](https://static.uzz5.com/i/2021/02/28/iERbRKVd.webp "arMsU5PVYt.png") ![4ZNvojKWFg.png](https://static.uzz5.com/i/2021/02/28/z1IpIN7c.webp "4ZNvojKWFg.png") ![cHB4ST9FSx.png](https://static.uzz5.com/i/2021/02/28/G0UXSf0u.webp "cHB4ST9FSx.png")
 
 # 下载 -> 安装
 
@@ -53,4 +53,4 @@ Github: [https://github.com/25H/Maya/releases/latest](https://github.com/25H/May
 
 # 其他
 
-本文系转载,更多详细内容请阅读作者博客发布页: [https://blog.arae.cc/post/25830.html](https://blog.arae.cc/post/25830.html) 或访问开源地址. ![](https://static.uzz5.com/imgs/2021/02/28/nUjAV29Y.webp)
+本文系转载,更多详细内容请阅读作者博客发布页: [https://blog.arae.cc/post/25830.html](https://blog.arae.cc/post/25830.html) 或访问开源地址. ![](https://static.uzz5.com/i/2021/02/28/nUjAV29Y.webp)

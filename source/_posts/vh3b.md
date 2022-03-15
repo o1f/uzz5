@@ -7,7 +7,7 @@ tags:
   - Win
   - 工具
 id: '7'
-thumbnail: https://static.uzz5.com/imgs/2021/02/27/id9MRolB.webp
+thumbnail: https://static.uzz5.com/i/2021/02/27/id9MRolB.webp
 abbrlink: vh3b
 ---
 
@@ -16,11 +16,11 @@ abbrlink: vh3b
 
 # 使用说明
 
-下载安装包,解压到任意位置 . ![](https://static.uzz5.com/imgs/2021/02/27/lKyknB60.webp) 
+下载安装包,解压到任意位置 . ![](https://static.uzz5.com/i/2021/02/27/lKyknB60.webp) 
 
 使用管理员运行 视网络情况,大概需要`1-3`分钟安装完毕,有条件的同学可以试试全局代理加速安装 . 
 
-![](https://static.uzz5.com/imgs/2021/02/27/rsN8DmOL.webp)安装完成
+![](https://static.uzz5.com/i/2021/02/27/rsN8DmOL.webp)安装完成
 
 # 下载地址
 

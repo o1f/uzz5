@@ -4,7 +4,7 @@ categories:
   - - Web
 tags:
   - 工具
-thumbnail: 'https://static.uzz5.com/imgs/2022/01/12/950ad09d10886.jpg'
+thumbnail: 'https://static.uzz5.com/i/2022/01/12/950ad09d10886.jpg'
 abbrlink: ccf
 date: 2022-01-12 15:00:00
 ---
@@ -14,7 +14,7 @@ date: 2022-01-12 15:00:00
 
 演示站: https://file.zyku.me/
 
-![预览](https://static.uzz5.com/imgs/2022/01/12/930b7e8229e0e.png)
+![预览](https://static.uzz5.com/i/2022/01/12/930b7e8229e0e.png)
 
 ## 特点
 

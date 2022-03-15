@@ -8,7 +8,7 @@ tags:
   - 开源
   - Typecho
   - Blog
-thumbnail: https://static.uzz5.com/imgs/2021/04/24/4FpEXObs.webp
+thumbnail: https://static.uzz5.com/i/2021/04/24/4FpEXObs.webp
 abbrlink: ooz4
 ---
 
@@ -26,11 +26,11 @@ abbrlink: ooz4
 
 
 ## 预览
-![](https://static.uzz5.com/imgs/2021/04/24/QOYBUl20.webp)   
+![](https://static.uzz5.com/i/2021/04/24/QOYBUl20.webp)   
 
-![](https://static.uzz5.com/imgs/2021/04/24/MMzyQIfG.webp)
+![](https://static.uzz5.com/i/2021/04/24/MMzyQIfG.webp)
   
-![](https://static.uzz5.com/imgs/2021/04/24/xN9AsxJo.webp)  
+![](https://static.uzz5.com/i/2021/04/24/xN9AsxJo.webp)  
 
 ## 使用方法
 
@@ -44,7 +44,7 @@ typecho 分类直接拖
 ## 如何对导航排序？
 
 看图：  
-![](https://static.uzz5.com/imgs/2021/04/24/Qbyqv4y0.webp)
+![](https://static.uzz5.com/i/2021/04/24/Qbyqv4y0.webp)
 
 ## 顶部小模块图标设置引导:
 

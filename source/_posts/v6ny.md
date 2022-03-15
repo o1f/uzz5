@@ -7,7 +7,7 @@ tags:
   - 主题
   - 开源
 id: '46'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/TlcUjGXR.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/TlcUjGXR.webp'
 abbrlink: v6ny
 date: 2021-01-28 19:57:30
 ---
@@ -29,7 +29,7 @@ date: 2021-01-28 19:57:30
 
 # 预览
 
-![](https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/28/b0N3PV7G.webp) ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/xFdL9hVg.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/Uj6Ju1ro.webp "请输入图片描述") 更多请访问作者博客查看:[https://zhebk.cn](https://zhebk.cn)
+![](https://cdn.jsdelivr.net/gh/o0s/t@o/2021/01/28/b0N3PV7G.webp) ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/xFdL9hVg.webp "请输入图片描述") ![请输入图片描述](https://static.uzz5.com/i/2021/02/28/Uj6Ju1ro.webp "请输入图片描述") 更多请访问作者博客查看:[https://zhebk.cn](https://zhebk.cn)
 
 # 其他
 

@@ -7,13 +7,13 @@ tags:
   - 工具
   - 开源
 id: '37'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/HXy2asyg.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/HXy2asyg.webp'
 abbrlink: q2tf
 date: 2021-01-23 23:43:10
 ---
 
 
-![7dP6CShfxq.jpg](https://static.uzz5.com/imgs/2021/02/28/X5jMA3gq.webp "7dP6CShfxq.jpg")
+![7dP6CShfxq.jpg](https://static.uzz5.com/i/2021/02/28/X5jMA3gq.webp "7dP6CShfxq.jpg")
 
 # 地址
 
@@ -25,7 +25,7 @@ date: 2021-01-23 23:43:10
 
 # 预览
 
-![请输入图片描述](https://static.uzz5.com/imgs/2021/02/28/bxu4MoJi.webp "请输入图片描述")
+![请输入图片描述](https://static.uzz5.com/i/2021/02/28/bxu4MoJi.webp "请输入图片描述")
 
 # Features：
 

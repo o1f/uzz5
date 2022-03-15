@@ -7,7 +7,7 @@ tags:
   - 工具
   - 开源
 id: '31'
-thumbnail: 'https://static.uzz5.com/imgs/2021/03/01/CiJiLUWV.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/03/01/CiJiLUWV.webp'
 abbrlink: 2fqt
 date: 2021-01-08 01:31:45
 ---
@@ -36,7 +36,7 @@ date: 2021-01-08 01:31:45
 
 ### 打开
 
-编译后可直接打开 **.NET Framework需>=4.5.0** 第一次开启速度可能很慢,因为要缓存头像等资源 打开后页面为: ![](https://static.uzz5.com/imgs/2021/03/01/w8TGIvPQ.webp ) 点击右上角的登录即可登录 **注意:登录暂不支持不自动登录,意味着下一次开启软件会自动登录** 点击后可能会弹出脚本错误窗口,比如 ![](https://static.uzz5.com/imgs/2021/03/01/S9SDdXjx.webp ) 我们点击**是**即可 输入账号密码后点击登录按钮登录 稍等片刻您就已经登录了! ![](https://static.uzz5.com/imgs/2021/03/01/l2n2z3rs.webp ) 如图样式(图片为你的头像)即为登录成功,可以进行接下来的操作
+编译后可直接打开 **.NET Framework需>=4.5.0** 第一次开启速度可能很慢,因为要缓存头像等资源 打开后页面为: ![](https://static.uzz5.com/i/2021/03/01/w8TGIvPQ.webp ) 点击右上角的登录即可登录 **注意:登录暂不支持不自动登录,意味着下一次开启软件会自动登录** 点击后可能会弹出脚本错误窗口,比如 ![](https://static.uzz5.com/i/2021/03/01/S9SDdXjx.webp ) 我们点击**是**即可 输入账号密码后点击登录按钮登录 稍等片刻您就已经登录了! ![](https://static.uzz5.com/i/2021/03/01/l2n2z3rs.webp ) 如图样式(图片为你的头像)即为登录成功,可以进行接下来的操作
 
 ### 下载视频
 
@@ -55,25 +55,25 @@ date: 2021-01-08 01:31:45
 
 #### 普通下载
 
-![t1EFt1.png](https://static.uzz5.com/imgs/2021/03/01/d2hGoXEG.webp "t1EFt1.png") 在文本框中输入ID或网址,点击`Link Start!`或者回车 稍等片刻,即可看到结果 ![t1EZ6O.png](https://static.uzz5.com/imgs/2021/03/01/DdgYJ00H.webp "t1EZ6O.png")
+![t1EFt1.png](https://static.uzz5.com/i/2021/03/01/d2hGoXEG.webp "t1EFt1.png") 在文本框中输入ID或网址,点击`Link Start!`或者回车 稍等片刻,即可看到结果 ![t1EZ6O.png](https://static.uzz5.com/i/2021/03/01/DdgYJ00H.webp "t1EZ6O.png")
 
 ##### 单集下载
 
-在想要下载的集中选好清晰度 ![t1E1ht.png](https://static.uzz5.com/imgs/2021/03/01/kQK157u0.webp "t1E1ht.png") **清晰度假如选择得太高会自动往下调整** 再点击左边的下载,此时会让你选择下载路径,选择好后即可在`下载管理`看到下载任务
+在想要下载的集中选好清晰度 ![t1E1ht.png](https://static.uzz5.com/i/2021/03/01/kQK157u0.webp "t1E1ht.png") **清晰度假如选择得太高会自动往下调整** 再点击左边的下载,此时会让你选择下载路径,选择好后即可在`下载管理`看到下载任务
 
 ##### 多集下载
 
-选中你要下载的集或者选中全都,点击下载路径按钮来选择下载路径 ![t1eXE4.png](https://static.uzz5.com/imgs/2021/03/01/PgObXp0R.webp "t1eXE4.png") 点击一键设置清晰度标签右边的复选框即可一键更改所有的清晰度 再点击下载选中即可开始下载,在`下载管理`可以看到下载内容
+选中你要下载的集或者选中全都,点击下载路径按钮来选择下载路径 ![t1eXE4.png](https://static.uzz5.com/i/2021/03/01/PgObXp0R.webp "t1eXE4.png") 点击一键设置清晰度标签右边的复选框即可一键更改所有的清晰度 再点击下载选中即可开始下载,在`下载管理`可以看到下载内容
 
 #### 收藏夹下载
 
-输入收藏夹编号,回车或点击按钮,稍等片刻,会弹出一个对话框 ![t1mS81.png](https://static.uzz5.com/imgs/2021/03/01/qGnCo2w0.webp "t1mS81.png") 你可以在其中选择直接下载或者查看(以普通AV方式查看) 或者可以选择你要下载的点击下载选中,之后的步骤大同小异
+输入收藏夹编号,回车或点击按钮,稍等片刻,会弹出一个对话框 ![t1mS81.png](https://static.uzz5.com/i/2021/03/01/qGnCo2w0.webp "t1mS81.png") 你可以在其中选择直接下载或者查看(以普通AV方式查看) 或者可以选择你要下载的点击下载选中,之后的步骤大同小异
 
 > 注意:您需要关闭此对话框才能操作主窗口!
 
 ### 下载管理
 
-![t1mcGR.png](https://static.uzz5.com/imgs/2021/03/01/0iuHAEs6.webp "t1mcGR.png")
+![t1mcGR.png](https://static.uzz5.com/i/2021/03/01/0iuHAEs6.webp "t1mcGR.png")
 
 > 注意:假如添加后未开启下载,请手动点击 开始下载 目前多任务暂停功能还在维护中
 
@@ -81,11 +81,11 @@ date: 2021-01-08 01:31:45
 
 ### 用户追番查看+下载
 
-登录账户后点击头像,弹出对话框 ![t1m2xx.png](https://static.uzz5.com/imgs/2021/03/01/SnEOsD98.webp "t1m2xx.png") 即可看到你的追番,支持翻页,一页十个,点击下载即可在主窗口 查看下载
+登录账户后点击头像,弹出对话框 ![t1m2xx.png](https://static.uzz5.com/i/2021/03/01/SnEOsD98.webp "t1m2xx.png") 即可看到你的追番,支持翻页,一页十个,点击下载即可在主窗口 查看下载
 
 ### 用户收藏夹下载
 
-在刚才打开的用户信息对话框中,选择`我的收藏夹` 即可看到你的收藏夹 ![t1mWM6.png](https://static.uzz5.com/imgs/2021/03/01/OwMzPwLk.webp "t1mWM6.png") 点击查看即可打开查询窗口下载
+在刚才打开的用户信息对话框中,选择`我的收藏夹` 即可看到你的收藏夹 ![t1mWM6.png](https://static.uzz5.com/i/2021/03/01/OwMzPwLk.webp "t1mWM6.png") 点击查看即可打开查询窗口下载
 
 ### 下载列表保存
 
@@ -117,7 +117,7 @@ date: 2021-01-08 01:31:45
 
 > Wow,居然是可视化的,按钮也有定位呢! 好棒棒哦~
 
-![tgN70f.png](https://static.uzz5.com/imgs/2021/03/01/XxfdBFLZ.webp "tgN70f.png") 这时你就可以按照一般方式作出选择(点击按钮) ![tgNjpj.png](https://static.uzz5.com/imgs/2021/03/01/qglA5ar4.webp "tgNjpj.png") 假如选择好剧情,你就可以点击`开始下载`来下载你选择好的剧情视频 假如你对你的选择不满意,你可以选择`重新开始(重置剧情)`
+![tgN70f.png](https://static.uzz5.com/i/2021/03/01/XxfdBFLZ.webp "tgN70f.png") 这时你就可以按照一般方式作出选择(点击按钮) ![tgNjpj.png](https://static.uzz5.com/i/2021/03/01/qglA5ar4.webp "tgNjpj.png") 假如选择好剧情,你就可以点击`开始下载`来下载你选择好的剧情视频 假如你对你的选择不满意,你可以选择`重新开始(重置剧情)`
 
 > 请注意,重置剧情会重置你所选择的所有选择好的剧情视频,如需保存,请先下载! 请注意: 目前测试出来 [铁心博弈](https://www.bilibili.com/video/BV1MJ411C7ie) 会出现问题,暂时没有时间去适配
 

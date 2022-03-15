@@ -9,7 +9,7 @@ tags:
   - VPS
   - 开源
 id: '24'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/od0FZO8S.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/od0FZO8S.webp'
 abbrlink: av0o
 date: 2020-12-24 01:15:52
 ---
@@ -23,11 +23,11 @@ date: 2020-12-24 01:15:52
 
 # 演示
 
-![](https://static.uzz5.com/imgs/2021/02/28/zsEniocS.webp) ![](https://static.uzz5.com/imgs/2021/02/28/iAf10f94.webp) ![](https://static.uzz5.com/imgs/2021/02/28/MAwdE9eU.webp) ![](https://static.uzz5.com/imgs/2021/02/28/eawThfVu.webp)
+![](https://static.uzz5.com/i/2021/02/28/zsEniocS.webp) ![](https://static.uzz5.com/i/2021/02/28/iAf10f94.webp) ![](https://static.uzz5.com/i/2021/02/28/MAwdE9eU.webp) ![](https://static.uzz5.com/i/2021/02/28/eawThfVu.webp)
 
 # 部署及使用
 
-请访问 项目开源地址进行查看反馈 [https://github.com/gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) 不要忘记 star 哦~ ![](https://static.uzz5.com/imgs/2021/02/28/YXePKYFw.webp)
+请访问 项目开源地址进行查看反馈 [https://github.com/gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) 不要忘记 star 哦~ ![](https://static.uzz5.com/i/2021/02/28/YXePKYFw.webp)
 
 # 其他
 

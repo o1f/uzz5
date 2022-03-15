@@ -7,7 +7,7 @@ tags:
   - Blog
   - 分享
   - 娱乐
-thumbnail: https://static.uzz5.com/imgs/2021/03/21/QPd5jVIf.webp
+thumbnail: https://static.uzz5.com/i/2021/03/21/QPd5jVIf.webp
 abbrlink: sjyl
 ---
 
@@ -36,7 +36,7 @@ abbrlink: sjyl
 
 ### 添加标识
 
-将`开往`的链接[https://travellings.now.sh](https://travellings.now.sh)加入您的顶栏导航或侧栏导航中，便于访客看到并点击. 更多样式或说明请访问[详细说明](https://github.com/volfclub/travellings/blob/master/README.md) ![演示](https://static.uzz5.com/imgs/2021/03/21/g3NXoZHl.webp)
+将`开往`的链接[https://travellings.now.sh](https://travellings.now.sh)加入您的顶栏导航或侧栏导航中，便于访客看到并点击. 更多样式或说明请访问[详细说明](https://github.com/volfclub/travellings/blob/master/README.md) ![演示](https://static.uzz5.com/i/2021/03/21/g3NXoZHl.webp)
 
 ### 提交申请
 

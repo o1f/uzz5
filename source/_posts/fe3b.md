@@ -6,7 +6,7 @@ categories:
 tags:
   - 主题
   - 开源
-thumbnail: 'https://static.uzz5.com/imgs/2022/01/12/0e013a5d26ada.jpg'
+thumbnail: 'https://static.uzz5.com/i/2022/01/12/0e013a5d26ada.jpg'
 abbrlink: fe3b
 date: 2022-01-12 13:00:00
 ---
@@ -42,7 +42,7 @@ date: 2022-01-12 13:00:00
 
 ## 预览
 
-![首页](https://static.uzz5.com/imgs/2022/01/12/c497b4f597b80.png)
+![首页](https://static.uzz5.com/i/2022/01/12/c497b4f597b80.png)
 
 ## 下载使用
 

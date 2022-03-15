@@ -8,7 +8,7 @@ tags:
   - 工具
   - 开源
 id: '28'
-thumbnail: https://static.uzz5.com/imgs/2021/02/28/FEZT8eHW.webp
+thumbnail: https://static.uzz5.com/i/2021/02/28/FEZT8eHW.webp
 abbrlink: x0il
 ---
 
@@ -25,7 +25,7 @@ abbrlink: x0il
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/HnUl3QVD.webp)
+![](https://static.uzz5.com/i/2021/02/28/HnUl3QVD.webp)
 
 # 使用说明
 

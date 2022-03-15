@@ -6,7 +6,7 @@ tags:
   - Github
   - 开源
 id: '18'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/faS4ybsT.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/faS4ybsT.webp'
 abbrlink: 3qxi
 date: 2020-12-16 01:26:16
 ---
@@ -34,7 +34,7 @@ date: 2020-12-16 01:26:16
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/Rpg52giJ.webp) ![](https://static.uzz5.com/imgs/2021/02/28/0ZGWHU0g.gif)
+![](https://static.uzz5.com/i/2021/02/28/Rpg52giJ.webp) ![](https://static.uzz5.com/i/2021/02/28/0ZGWHU0g.gif)
 
 # 原文
 

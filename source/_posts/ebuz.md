@@ -8,7 +8,7 @@ tags:
   - 主题
   - 开源
 id: '41'
-thumbnail: 'https://static.uzz5.com/imgs/2021/02/28/vn5mCdhu.webp'
+thumbnail: 'https://static.uzz5.com/i/2021/02/28/vn5mCdhu.webp'
 abbrlink: ebuz
 date: 2021-01-25 00:53:31
 ---
@@ -36,7 +36,7 @@ date: 2021-01-25 00:53:31
 
 # 预览
 
-![](https://static.uzz5.com/imgs/2021/02/28/0NUC66wl.webp) ![](https://static.uzz5.com/imgs/2021/02/28/YHvcaZY3.webp) ![](https://static.uzz5.com/imgs/2021/02/28/0m1xL856.webp)
+![](https://static.uzz5.com/i/2021/02/28/0NUC66wl.webp) ![](https://static.uzz5.com/i/2021/02/28/YHvcaZY3.webp) ![](https://static.uzz5.com/i/2021/02/28/0m1xL856.webp)
 
 # 其他
 
